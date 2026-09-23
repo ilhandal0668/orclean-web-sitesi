@@ -63,23 +63,35 @@ Dönüşüm büyük/küçük harf düzeni korunarak uygulandı
 - **Logo** — `site/wp-content/uploads/2025/06/Orclean-Logo.svg`,
   `orclean logo.pdf` içindeki yatay varyanttan vektör olarak üretildi.
 
-## Bilinen eksik: görsellere gömülü eski logo
+## Görsellere gömülü marka
 
-Aşağıdaki görsellerde ORKA logosu ve marka metni **resmin içine gömülüdür**;
-bunlar metin olmadığı için otomatik dönüşüm kapsamında değildir ve grafik
-düzenleme gerektirir. Hepsi sitede aktif olarak kullanılmaktadır:
+Bazı görsellerde marka **resmin içine gömülüdür**; bunlar metin olmadığı için
+otomatik dönüşüm kapsamına girmez ve grafik düzenleme gerektirir.
 
-| Dosya (`site/wp-content/uploads/2025/06/`) | İçerik | Kullanım |
-| --- | --- | --- |
-| `Banner-05-01.jpg` | Bordo zemin üzerinde ORKA logosu | 32 |
-| `asasa.jpg` | "30. YIL ORKA" görseli | 86 |
-| `Basliksiz-2-01.jpg` | "30. YIL ORKA" görseli | 22 |
-| `Basliksiz-1-01.jpg` | "30. YIL ORKA" görseli | 2 |
-| `CM43-.jpg` | ORKA logosu + ürün tanıtım metni | 29 |
-| `picolo-02.jpg` | ORKA logosu + ürün tanıtım metni | 2 |
-| `2.jpg` | "ORKA M30B…" teknik tanıtım kartı | 109 |
-| `3.jpg` | "ORKA K70T…" teknik tanıtım kartı | 133 |
-| `diger-01.jpg` | Ürün gövdesinde ORKA yazısı (fotoğraf) | 40 |
+### Düzeltilenler
+
+| Dosya (`site/wp-content/uploads/2025/06/`) | Yapılan |
+| --- | --- |
+| `Banner-05-01.jpg` | ORKA logosu, `orclean logo.pdf` içindeki beyaz yatay varyantla değiştirildi |
+| `2.jpg` | Paragraf, sitenin kendi fontu Outfit ile özgün punto/satır aralığı korunarak yeniden dizildi |
+| `3.jpg` | Marka satırı yeniden dizildi; eski metin sütun bazlı zemin medyanıyla temizlendi |
+
+Boy kopyaları da düzenlenmiş orijinallerden yeniden üretildi. Düzenlenen
+dosyaların orijinalleri `D:\orclean-build\orijinal-gorseller` altında saklandı.
+
+### Kalanlar — tasarım kararı gerektiriyor
+
+| Dosya | İçerik | Kullanım | Neden bekliyor |
+| --- | --- | --- | --- |
+| `asasa.jpg` | "30. YIL ORKA" | 86 | "ORCLEAN" çok daha uzun; kompozisyonun yeniden kurgulanması gerekir. Ayrıca 30 yıllık geçmiş vurgusunun yeni markada sürdürülüp sürdürülmeyeceği bir iş kararıdır. |
+| `Basliksiz-2-01.jpg` | "30. YIL ORKA" | 22 | Aynı |
+| `Basliksiz-1-01.jpg` | "30. YIL ORKA" | 2 | Aynı |
+| `CM43-.jpg` | ORKA logosu + tanıtım metni | 29 | Logo fotoğraf zemin üzerinde; eski logonun kaldırılması arka planın onarılmasını gerektirir |
+| `picolo-02.jpg` | ORKA logosu + tanıtım metni | 2 | Aynı |
+| `diger-01.jpg` | ORKA yazısı ürün gövdesinde | 40 | Gerçek ürün fotoğrafı; rötuş fiziksel ürünü yanlış gösterir |
+
+Not: ORKA ve ORCLEAN logolarındaki küre simgesi aynıdır; bu görsellerde
+yalnızca kelime markası farklıdır.
 
 ## Kurulum
 
