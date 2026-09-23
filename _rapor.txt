@@ -1,0 +1,4 @@
+sayfa: 223
+varlik: 1027
+hata: 1
+404	add
