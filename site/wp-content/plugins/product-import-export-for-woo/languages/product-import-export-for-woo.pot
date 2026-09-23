@@ -1,0 +1,4351 @@
+# Copyright (C) 2026 WebToffee
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Import Export for WooCommerce 2.6.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-import-export-for-woo\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-10T11:21:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: product-import-export-for-woo\n"
+
+#. Plugin Name of the plugin
+#: product-import-export-for-woo.php
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:93
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:141
+msgid "Product Import Export for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: product-import-export-for-woo.php
+msgid "https://wordpress.org/plugins/product-import-export-for-woo/"
+msgstr ""
+
+#. Description of the plugin
+#: product-import-export-for-woo.php
+msgid "Import and Export Products From and To your WooCommerce Store."
+msgstr ""
+
+#. Author of the plugin
+#: product-import-export-for-woo.php
+msgid "WebToffee"
+msgstr ""
+
+#. Author URI of the plugin
+#: product-import-export-for-woo.php
+msgid "https://www.webtoffee.com/product/product-import-export-woocommerce/"
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:134
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:134
+msgid "Did you know?"
+msgstr ""
+
+#. translators: %1$s = <strong>BOGO offers</strong>, %2$s = <strong>giveaways</strong>, %3$s = <strong>store credits</strong>. Highlighted phrases must remain wrapped so they render bold in the banner.
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:141
+msgid "WebToffee Smart Coupons lets you create %1$s, %2$s, and %3$s to help grow your store's revenue."
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:142
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:138
+msgid "BOGO offers"
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:143
+msgid "giveaways"
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:144
+msgid "store credits"
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:151
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:142
+msgid "Get Plugin Now"
+msgstr ""
+
+#: admin/banner/class-wbte-smart-coupons-analytics-banner.php:153
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:137
+msgid "WebToffee Smart Coupons lets you create advanced %1$s and %2$s to boost sales and revenue."
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:139
+msgid "condition-based coupons"
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:143
+#: class-wt-product-review-request.php:1415
+#: class-wt-product-review-request.php:1520
+msgid "Maybe later"
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:200
+msgid "Black Friday Cyber Monday 2025"
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:204
+msgid "Never Miss This Deal"
+msgstr ""
+
+#. translators: 1: Discount text with span wrapper, e.g. <span>30% OFF</span>.
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:211
+msgid "Your Last Chance to Avail %1$s on WebToffee Plugins. Grab the deal before it`s gone!"
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:212
+msgid "OFF"
+msgstr ""
+
+#: admin/banner/class-wt-bfcm-twenty-twenty-five.php:218
+msgid "View plugins"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:55
+msgid "Product Import Export Plugin for WooCommerce."
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:56
+#: admin/modules/import/views/main.php:165
+#: class-wt-product-review-request.php:1350
+#: class-wt-product-review-request.php:1506
+msgid "Did You Know?"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:57
+msgid "Get"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:61
+msgid "Go beyond basic CSV imports. Effortlessly import products from CSV, XML, or Excel, make bulk edits, and schedule imports on your terms with the Product Import plugin."
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:64
+msgid "Export only the products you need. Filter by type, category, tags, stock status, and more using advanced filters to keep your store organized with the Product Export plugin."
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:105
+#: admin/modules/import/views/main.php:88
+msgid "Close"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:178
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:176
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:161
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:164
+msgid "Missing nonce"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:183
+msgid "Security check failed"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:188
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:186
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:171
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:174
+msgid "Insufficient permissions"
+msgstr ""
+
+#: admin/banner/class-wt-p-iew-cta-banner-default-page.php:195
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:192
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:177
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:180
+msgid "Banner dismissed successfully"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:167
+msgid "Settings updated."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:168
+msgid "All fields are mandatory"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:169
+msgid "Unable to update Settings."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:170
+msgid "Unable to delete template"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:171
+msgid "Deleting template..."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:172
+msgid "Value is empty."
+msgstr ""
+
+#. translators: %1$s is the opening link tag, %2$s is the closing link tag
+#: admin/class-wt-import-export-for-woo-admin.php:174
+msgid "An unknown error has occurred! Refer to our %1$stroubleshooting guide%2$s for assistance."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:175
+msgid "Success."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:176
+msgid "Loading..."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:177
+#: admin/modules/history/history.php:588
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:178
+#: admin/modules/history/views/_history_list.php:82
+#: admin/modules/history/views/_history_list.php:92
+#: admin/modules/history/views/_log_list.php:50
+msgid "Apply"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:179
+#: admin/modules/import/views/main.php:87
+#: admin/modules/request_feature/request_feature.php:158
+#: admin/views/_save_template_popup.php:29
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:60
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:180
+msgid "Hide features"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:181
+msgid "Show features"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:182
+msgid "Changes that you made may not be saved."
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:183
+msgid "Are you sure to stop the import?"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:184
+msgid "Import cancelled"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:191
+#: admin/class-wt-import-export-for-woo-admin.php:198
+#: admin/class-wt-import-export-for-woo-admin.php:240
+msgid "Order, Coupon, Subscription Export Import for WooCommerce"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:205
+#: admin/class-wt-import-export-for-woo-admin.php:212
+#: admin/class-wt-import-export-for-woo-admin.php:219
+#: admin/class-wt-import-export-for-woo-admin.php:226
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:56
+msgid "Product Import Export Plugin For WooCommerce"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:233
+msgid "WordPress Users & WooCommerce Customers Import Export"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:268
+#: admin/class-wt-import-export-for-woo-admin.php:269
+#: admin/class-wt-import-export-for-woo-admin.php:300
+#: admin/class-wt-import-export-for-woo-admin.php:301
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:279
+msgid "Schedule Job"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:280
+msgid "Scheduled Job"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:317
+msgid "Pro upgrade"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:370
+#: admin/class-wt-import-export-for-woo-admin.php:413
+#: admin/modules/export/export.php:325
+#: admin/modules/export/export.php:625
+#: admin/modules/history/history.php:104
+#: admin/modules/import/import.php:1187
+#: admin/modules/request_feature/request_feature.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:397
+msgid "Settings Updated"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:426
+msgid "Template deleted successfully"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:539
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:540
+#: admin/views/admin-settings-help.php:17
+#: admin/views/admin-settings-help.php:20
+#: product-import-export-for-woo.php:168
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-wt-import-export-for-woo-admin.php:541
+#: product-import-export-for-woo.php:169
+msgid "Support"
+msgstr ""
+
+#. translators: %s is the URL to the exporter page
+#: admin/class-wt-import-export-for-woo-admin.php:549
+msgid "Export WooCommerce products, product categories, product tags and product reviews in CSV format using <a href=\"%s\">this exporter</a>."
+msgstr ""
+
+#. translators: %s: User Import Export for WooCommerce plugin  URL
+#: admin/class-wt-import-export-for-woo-admin.php:554
+msgid "You can export Users and WooCommerce customers in CSV format using the plugin <a href=\"%s\" target=\"_blank\">Import Export WordPress Users and WooCommerce Customers</a>."
+msgstr ""
+
+#. translators: %s is the URL to the exporter page
+#: admin/class-wt-import-export-for-woo-admin.php:559
+msgid "Export Users and WooCommerce customers in CSV format using <a href=\"%s\">this exporter</a>."
+msgstr ""
+
+#. translators: %s: Order Import Export for WooCommerce plugin  URL
+#: admin/class-wt-import-export-for-woo-admin.php:565
+msgid "You can export WooCommerce orders and coupons in CSV format using the plugin <a href=\"%s\" target=\"_blank\">Order Export & Order Import for WooCommerce</a>."
+msgstr ""
+
+#. translators: %s is the URL to the exporter page
+#: admin/class-wt-import-export-for-woo-admin.php:570
+msgid "Export WooCommerce orders and coupons in CSV format using <a href=\"%s\">this exporter</a>."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:144
+msgid "Go Beyond Basic Order Imports Exports"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:145
+msgid "Import, export, and back up orders, subscriptions, and coupons with advanced filters, mapping, and scheduling."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:146
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:170
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:154
+msgid "Your store's grown past basic imports."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:155
+msgid "Import Export Suite lets you import, export, migrate, and bulk update every WooCommerce data type — products, orders, users, coupons, reviews, and subscriptions — in one place."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:156
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:180
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:133
+msgid "Get Import Export Suite"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:182
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:208
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:137
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:98
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:163
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:148
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:151
+msgid "Dismiss"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:252
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:281
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:178
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:145
+#: class-wt-product-review-request.php:1569
+msgid "Missing option name."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-orders-banner.php:266
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:295
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:189
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:156
+#: class-wt-product-review-request.php:1585
+msgid "Invalid option."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:168
+msgid "Go beyond basic product imports/exports."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:169
+msgid "Handle variable, subscription, and custom products, automate imports/exports, and map fields effortlessly with advanced features in the Pro version."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:178
+msgid "Still Managing Data in Pieces?"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-analytics-products-banner.php:179
+msgid "Import, export, and back up users, orders, products, coupons, and more without switching between multiple plugins. Manage it all with a single, unified workflow using Import Export Suite."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:131
+msgid "All your Woocommerce imports and exports, in one plugin"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-history-banner.php:132
+msgid "Why use multiple tools when one plugin can handle it all? Upgrade to Import Export Suite to manage products, orders, users, coupons, subscriptions, and reviews with one plugin."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:100
+msgid "Take WooCommerce imports/exports further with Premium"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:101
+msgid "Handle complex product types, automate imports/exports, and manage large catalogs with advanced filters and broader file support."
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wbte-iew-wc-settings-products-banner.php:102
+msgid "Upgrade Now"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:140
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:125
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:119
+msgid "upgrade box icon"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:148
+msgid "Import, export, or update WooCommerce products"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:149
+msgid "Supports all types of products (Simple, variable, subscription grouped, and external)"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:150
+msgid "Multiple file formats - CSV, XML, Excel, and TSV"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:151
+#: admin/views/market.php:47
+#: admin/views/market.php:102
+#: admin/views/market.php:157
+msgid "Advanced filters and customizations for better control"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:152
+msgid "Bulk update WooCommerce product data"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:153
+#: admin/views/market.php:44
+#: admin/views/market.php:99
+#: admin/views/market.php:153
+msgid "Import via FTP/SFTP and URL"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:154
+#: admin/views/admin-settings-other-solutions.php:190
+#: admin/views/admin-settings-other-solutions.php:251
+#: admin/views/market.php:46
+#: admin/views/market.php:101
+#: admin/views/market.php:156
+msgid "Schedule automated import & export"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:155
+msgid "Export and Import custom fields and third-party plugin fields"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:160
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:145
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:148
+msgid "View all premium features"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:160
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:145
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:148
+msgid "Show less"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:161
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:146
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:149
+msgid "Get the plugin"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-p-iew-cta-banner.php:181
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:166
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:169
+msgid "Invalid nonce"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:77
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:126
+msgid "WooCommerce PDF Invoices, Packing Slips and Credit Notes"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:133
+msgid "Automatically generate PDF invoices, packing slips, and credit notes"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:134
+msgid "Use ready-made, customizable templates to match your brand"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:135
+msgid "Print or download invoices individually or in bulk"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:136
+msgid "Set custom invoice numbering for better organization"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:137
+msgid "Customize documents fully with visual or code editors"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:138
+msgid "Include VAT, GST, ABN, and other tax details"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:139
+msgid "Add \"Pay Now\" link on invoices"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-pklist-cta-banner.php:140
+msgid "Add custom fields to any order document with ease"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:72
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:127
+msgid "Smart Coupons for WooCommerce Pro"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:120
+msgid "Create better coupon campaigns with advanced WooCommerce coupon features"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:131
+msgid "Auto-apply coupons"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:132
+msgid "Create attractive Buy X Get Y (BOGO) offers"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:133
+msgid "Create product quantity/subtotal based discounts"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:134
+msgid "Offer store credits and gift cards"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:135
+msgid "Set up smart giveaway campaigns"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:136
+msgid "Set advanced coupon rules and conditions"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:137
+#: admin/views/admin-settings-other-solutions.php:38
+msgid "Bulk generate coupons"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:138
+msgid "Shipping, purchase history, and payment method-based coupons"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:139
+msgid "Sign up coupons"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:140
+#: admin/views/admin-settings-other-solutions.php:36
+msgid "Cart abandonment coupons"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:141
+msgid "Create day-specific deals"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:142
+msgid "Display coupon banners and widgets"
+msgstr ""
+
+#: admin/cross-promotion-banners/class-wt-smart-coupon-cta-banner.php:143
+msgid "Import coupons"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:124
+#: admin/modules/export/views/_export_mapping_page.php:28
+#: admin/modules/import/classes/class-import-ajax.php:328
+#: admin/modules/import/views/_import_mapping_page.php:96
+msgid "Drag to rearrange the columns"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:271
+#: admin/modules/import/classes/class-import-ajax.php:590
+msgid "Please enter a different name"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:273
+#: admin/modules/import/classes/class-import-ajax.php:592
+msgid "Template with same name already exists"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:315
+#: admin/modules/import/classes/class-import-ajax.php:636
+msgid "Template updated successfully"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:332
+#: admin/modules/import/classes/class-import-ajax.php:653
+msgid "Template saved successfully"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:521
+#: admin/modules/export/classes/class-export-ajax.php:525
+#: admin/modules/import/classes/class-import-ajax.php:732
+#: admin/modules/import/classes/class-import-ajax.php:736
+#: admin/modules/import/classes/class-import-ajax.php:764
+msgid "Upgrade to Order Import Export Pro."
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:529
+#: admin/modules/export/classes/class-export-ajax.php:533
+#: admin/modules/export/classes/class-export-ajax.php:538
+#: admin/modules/export/classes/class-export-ajax.php:543
+#: admin/modules/import/classes/class-import-ajax.php:740
+#: admin/modules/import/classes/class-import-ajax.php:744
+#: admin/modules/import/classes/class-import-ajax.php:749
+#: admin/modules/import/classes/class-import-ajax.php:754
+#: admin/modules/import/classes/class-import-ajax.php:775
+msgid "Upgrade to Product Import Export Pro."
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:548
+#: admin/modules/import/classes/class-import-ajax.php:759
+msgid "Upgrade to User Import Export Pro."
+msgstr ""
+
+#. translators: %1$d is the current step number, %2$d is the total number of steps
+#. translators: %1$d is current step number, %2$d is total steps
+#: admin/modules/export/classes/class-export-ajax.php:648
+#: admin/modules/import/classes/class-import-ajax.php:1036
+msgid "Step %1$d of %2$d"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:673
+#: admin/modules/import/classes/class-import-ajax.php:1065
+msgid "Back"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:686
+#: admin/modules/export/export.php:504
+#: admin/modules/import/classes/class-import-ajax.php:1078
+#: admin/modules/import/import.php:428
+msgid "Step"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:693
+#: admin/modules/import/classes/class-import-ajax.php:1085
+msgid "Or"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:712
+#: admin/modules/export/classes/class-export-ajax.php:730
+#: admin/modules/import/classes/class-import-ajax.php:1104
+#: admin/modules/import/classes/class-import-ajax.php:1122
+msgid "Save template"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:716
+#: admin/modules/import/classes/class-import-ajax.php:1108
+#: admin/views/_save_template_popup.php:13
+msgid "Save"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:720
+#: admin/modules/import/classes/class-import-ajax.php:1112
+msgid "Save As"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:742
+msgid "Export images"
+msgstr ""
+
+#: admin/modules/export/classes/class-export-ajax.php:751
+#: admin/modules/export/export.php:218
+#: admin/modules/export/export.php:229
+#: admin/modules/export/export.php:230
+#: admin/modules/export/views/_export_header.php:8
+#: admin/modules/history/history.php:44
+#: product-import-export-for-woo.php:166
+msgid "Export"
+msgstr ""
+
+#: admin/modules/export/export.php:56
+#: admin/modules/import/import.php:59
+#: admin/views/admin-settings-marketing.php:148
+#: admin/views/admin-settings-marketing.php:155
+#: admin/views/admin-settings-marketing.php:162
+#: admin/views/admin-settings-marketing.php:324
+#: admin/views/admin-settings-marketing.php:331
+#: admin/views/admin-settings-marketing.php:338
+#: admin/views/admin-settings-marketing.php:482
+#: admin/views/admin-settings-marketing.php:489
+#: admin/views/admin-settings-marketing.php:496
+msgid "CSV"
+msgstr ""
+
+#: admin/modules/export/export.php:57
+#: admin/views/admin-settings-marketing.php:149
+#: admin/views/admin-settings-marketing.php:156
+#: admin/views/admin-settings-marketing.php:163
+#: admin/views/admin-settings-marketing.php:325
+#: admin/views/admin-settings-marketing.php:332
+#: admin/views/admin-settings-marketing.php:339
+#: admin/views/admin-settings-marketing.php:483
+#: admin/views/admin-settings-marketing.php:490
+#: admin/views/admin-settings-marketing.php:497
+msgid "XML"
+msgstr ""
+
+#: admin/modules/export/export.php:64
+#: admin/modules/import/import.php:72
+msgid "Select a post type"
+msgstr ""
+
+#: admin/modules/export/export.php:65
+msgid "Export and download the data for the respective post type into a CSV file. As per the selected post type, we can use this exported CSV file to import data to your site."
+msgstr ""
+
+#: admin/modules/export/export.php:68
+#: admin/modules/export/views/_export_method_export_page.php:82
+msgid "Select an export method"
+msgstr ""
+
+#: admin/modules/export/export.php:69
+msgid "Choose from the options below to continue with your export: quick export from DB, based on a pre-saved template or a new export with advanced options."
+msgstr ""
+
+#: admin/modules/export/export.php:72
+msgid "Filter data"
+msgstr ""
+
+#: admin/modules/export/export.php:73
+msgid "Filter data that needs to be exported as per the below criteria."
+msgstr ""
+
+#: admin/modules/export/export.php:76
+msgid "Map and reorder export columns"
+msgstr ""
+
+#: admin/modules/export/export.php:77
+msgid "The default export column names can be edited from the screen below, if required. If you have chosen a pre-saved template you can see the preferred names and choices that were last saved. You may also drag the columns accordingly to reorder them within the output file."
+msgstr ""
+
+#: admin/modules/export/export.php:80
+msgid "Advanced options/Batch export"
+msgstr ""
+
+#: admin/modules/export/export.php:81
+msgid "You can save the template file for future exports or proceed with the export."
+msgstr ""
+
+#: admin/modules/export/export.php:97
+msgid "Quick export"
+msgstr ""
+
+#: admin/modules/export/export.php:97
+msgid "Exports all the basic fields."
+msgstr ""
+
+#: admin/modules/export/export.php:98
+#: admin/modules/import/import.php:91
+msgid "Pre-saved template"
+msgstr ""
+
+#: admin/modules/export/export.php:98
+msgid "Exports data as per the specifications(filters,selective column,mapping etc) from the previously saved file."
+msgstr ""
+
+#: admin/modules/export/export.php:99
+msgid "Advanced export"
+msgstr ""
+
+#: admin/modules/export/export.php:99
+msgid "Exports data after a detailed process of filtration, column selection and advanced options. The configured settings can be saved as a template for future exports."
+msgstr ""
+
+#: admin/modules/export/export.php:148
+msgid "Default Export method"
+msgstr ""
+
+#: admin/modules/export/export.php:154
+msgid "Select the default method of export."
+msgstr ""
+
+#: admin/modules/export/export.php:158
+msgid "Include BOM in export file"
+msgstr ""
+
+#: admin/modules/export/export.php:160
+#: admin/modules/export/export.php:180
+#: admin/modules/history/history.php:247
+#: admin/modules/import/import.php:136
+msgid "Enable"
+msgstr ""
+
+#: admin/modules/export/export.php:164
+msgid "The BOM will help some programs like Microsoft Excel read your export file if it includes non-English characters."
+msgstr ""
+
+#: admin/modules/export/export.php:168
+msgid "Default Export batch count"
+msgstr ""
+
+#: admin/modules/export/export.php:172
+msgid "Provide the default count for the records to be exported in a batch."
+msgstr ""
+
+#: admin/modules/export/export.php:178
+msgid "Enable ChatGPT"
+msgstr ""
+
+#: admin/modules/export/export.php:184
+msgid "Automatically generate product descriptions from product titles using ChatGPT API for products without descriptions in the importing CSV."
+msgstr ""
+
+#: admin/modules/export/export.php:191
+msgid "Chat GPT API key"
+msgstr ""
+
+#. translators: %1$s is opening link tag, %2$s is closing link tag
+#: admin/modules/export/export.php:197
+msgid "Input the ChatGPT API key to enable the automatic generation of product descriptions. %1$s Where do I get my API Keys? %2$s "
+msgstr ""
+
+#: admin/modules/export/export.php:219
+msgid "WebToffee Import Export (Basic)"
+msgstr ""
+
+#: admin/modules/export/export.php:344
+msgid "Limit"
+msgstr ""
+
+#: admin/modules/export/export.php:348
+msgid "Unlimited"
+msgstr ""
+
+#: admin/modules/export/export.php:349
+msgid "The actual number of records you want to export. e.g. A limit of 500 with an offset 10 will export records from 11th to 510th position."
+msgstr ""
+
+#: admin/modules/export/export.php:354
+msgid "Offset"
+msgstr ""
+
+#: admin/modules/export/export.php:357
+msgid "0"
+msgstr ""
+
+#: admin/modules/export/export.php:358
+msgid "Specify the number of records that should be skipped from the beginning of the database. e.g. An offset of 10 skips the first 10 records."
+msgstr ""
+
+#: admin/modules/export/export.php:370
+#: admin/modules/import/import.php:197
+#: admin/views/admin-settings-marketing.php:172
+#: admin/views/admin-settings-marketing.php:180
+#: admin/views/admin-settings-marketing.php:188
+#: admin/views/admin-settings-marketing.php:348
+#: admin/views/admin-settings-marketing.php:356
+#: admin/views/admin-settings-marketing.php:364
+#: admin/views/admin-settings-marketing.php:506
+#: admin/views/admin-settings-marketing.php:514
+#: admin/views/admin-settings-marketing.php:522
+msgid "Local"
+msgstr ""
+
+#: admin/modules/export/export.php:388
+msgid "Export file name"
+msgstr ""
+
+#: admin/modules/export/export.php:391
+msgid "Specify a filename for the exported file. If left blank, the system generates the name automatically."
+msgstr ""
+
+#: admin/modules/export/export.php:397
+msgid "Export in batches of"
+msgstr ""
+
+#. translators: %d is the default number of records
+#: admin/modules/export/export.php:403
+msgid "The number of records that the server will process for every iteration within the configured timeout interval. If the export fails due to timeout you can lower this number accordingly and try again. Defaulted to %d records."
+msgstr ""
+
+#: admin/modules/export/export.php:408
+#: admin/modules/import/import.php:254
+msgid "Delimiter"
+msgstr ""
+
+#: admin/modules/export/export.php:415
+msgid "Separator for differentiating the columns in the CSV file. Assumes comma by default."
+msgstr ""
+
+#: admin/modules/export/export.php:501
+#: admin/modules/import/import.php:425
+msgid "Choosed template:"
+msgstr ""
+
+#: admin/modules/export/export.php:502
+msgid "Please select an export method."
+msgstr ""
+
+#: admin/modules/export/export.php:503
+#: admin/modules/export/views/_export_method_export_page.php:78
+msgid "Please select an export template."
+msgstr ""
+
+#: admin/modules/export/export.php:505
+#: admin/modules/import/import.php:429
+msgid "Please select an FTP profile."
+msgstr ""
+
+#: admin/modules/export/export.php:507
+msgid "Only letters, numbers and hyphens are allowed"
+msgstr ""
+
+#: admin/modules/export/export.php:508
+msgid "Enter file name (letters, numbers, hyphens only)"
+msgstr ""
+
+#: admin/modules/export/export.php:638
+#: admin/modules/history/history.php:39
+#: admin/modules/import/import.php:1156
+msgid "Finished"
+msgstr ""
+
+#. translators: %s is the upload destination name
+#: admin/modules/export/export.php:819
+msgid "Uploading to %s"
+msgstr ""
+
+#: admin/modules/export/export.php:825
+msgid "Export file processing completed"
+msgstr ""
+
+#: admin/modules/export/export.php:833
+msgid "You can manage exports from History section."
+msgstr ""
+
+#: admin/modules/export/export.php:836
+msgid "Download file"
+msgstr ""
+
+#. translators: %1$d is current offset, %2$d is total records
+#: admin/modules/export/export.php:859
+msgid "Exporting...(%1$d out of %2$d)"
+msgstr ""
+
+#: admin/modules/export/views/main.php:37
+#: admin/modules/import/views/main.php:106
+msgid "Unable to handle Re-Run request."
+msgstr ""
+
+#: admin/modules/export/views/main.php:49
+msgid "All variable products from your site is not included in the CSV!"
+msgstr ""
+
+#: admin/modules/export/views/main.php:50
+msgid "Free version only supports simple, grouped, and external/affiliate product types. Variable product type support is a "
+msgstr ""
+
+#: admin/modules/export/views/main.php:50
+msgid "premium feature"
+msgstr ""
+
+#: admin/modules/export/views/main.php:61
+#: admin/modules/import/views/main.php:122
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/modules/export/views/main.php:62
+#: admin/modules/import/views/main.php:123
+msgid "We are unable to complete your request.Try reducing the import batch count to 5 or less and increasing the Maximum execution time in the"
+msgstr ""
+
+#: admin/modules/export/views/main.php:62
+#: admin/modules/import/views/main.php:123
+msgid "General settings"
+msgstr ""
+
+#: admin/modules/export/views/main.php:63
+#: admin/modules/import/views/main.php:124
+msgid " If not resolved, contact the"
+msgstr ""
+
+#: admin/modules/export/views/main.php:63
+#: admin/modules/import/views/main.php:124
+msgid "support team"
+msgstr ""
+
+#: admin/modules/export/views/main.php:63
+#: admin/modules/import/views/main.php:124
+msgid "with the"
+msgstr ""
+
+#: admin/modules/export/views/main.php:63
+#: admin/modules/import/views/main.php:124
+msgid "WooCommerce fatal error log"
+msgstr ""
+
+#: admin/modules/export/views/main.php:63
+#: admin/modules/import/views/main.php:124
+msgid "if any"
+msgstr ""
+
+#: admin/modules/export/views/main.php:65
+#: admin/modules/import/views/main.php:126
+msgid "Try again"
+msgstr ""
+
+#: admin/modules/export/views/_export_advanced_page.php:19
+#: admin/modules/export/views/_export_post_type_page.php:122
+#: admin/modules/import/views/_import_method_import_page.php:130
+#: admin/modules/import/views/_import_post_type_page.php:140
+msgid "💡 Did You Know?"
+msgstr ""
+
+#: admin/modules/export/views/_export_advanced_page.php:19
+msgid "Get advanced features like FTP/SFTP import, and support for XLSX, XLS, and XML files with our premium version."
+msgstr ""
+
+#: admin/modules/export/views/_export_mapping_page.php:11
+#: admin/modules/import/views/_import_mapping_page.php:78
+msgid "Default fields"
+msgstr ""
+
+#: admin/modules/export/views/_export_mapping_page.php:12
+#: admin/modules/export/views/_export_mapping_page.php:107
+#: admin/modules/import/views/_import_mapping_page.php:79
+#: admin/modules/import/views/_import_mapping_page.php:292
+msgid " columns(s) selected"
+msgstr ""
+
+#: admin/modules/export/views/_export_mapping_page.php:22
+#: admin/modules/export/views/_export_meta_step_page.php:21
+msgid "Column"
+msgstr ""
+
+#: admin/modules/export/views/_export_mapping_page.php:23
+#: admin/modules/export/views/_export_meta_step_page.php:22
+msgid "Column name"
+msgstr ""
+
+#: admin/modules/export/views/_export_mapping_page.php:59
+#: admin/modules/export/views/_export_meta_step_page.php:54
+#: admin/modules/import/views/_import_mapping_page.php:258
+#: admin/modules/import/views/_import_meta_step_page.php:37
+msgid "No fields found."
+msgstr ""
+
+#: admin/modules/export/views/_export_method_export_page.php:74
+msgid "Please select an export method"
+msgstr ""
+
+#: admin/modules/export/views/_export_method_export_page.php:105
+msgid "Include additional fields"
+msgstr ""
+
+#: admin/modules/export/views/_export_method_export_page.php:134
+msgid "By default, only basic fields are exported to the CSV file. Enable Attributes to include all product attributes, or enable Taxonomies to export all the fields from the taxonomies group."
+msgstr ""
+
+#: admin/modules/export/views/_export_method_export_page.php:140
+msgid "Export template"
+msgstr ""
+
+#: admin/modules/export/views/_export_method_export_page.php:143
+#: admin/modules/import/views/_import_method_import_page.php:105
+msgid "Select a template"
+msgstr ""
+
+#: admin/modules/export/views/_export_post_type_page.php:36
+#: admin/modules/import/views/_import_post_type_page.php:54
+msgid "Install now"
+msgstr ""
+
+#: admin/modules/export/views/_export_post_type_page.php:41
+#: admin/modules/import/views/_import_post_type_page.php:59
+#: admin/views/admin-settings-other-solutions.php:607
+#: admin/views/admin-settings-other-solutions.php:763
+#: admin/views/admin-settings-other-solutions.php:896
+msgid "Activate"
+msgstr ""
+
+#: admin/modules/export/views/_export_post_type_page.php:48
+#: admin/modules/import/views/_import_post_type_page.php:66
+#: admin/views/admin-settings-marketing.php:58
+#: admin/views/admin-settings-marketing.php:273
+#: admin/views/admin-settings-marketing.php:431
+msgid "Premium"
+msgstr ""
+
+#: admin/modules/export/views/_export_post_type_page.php:122
+#: admin/modules/import/views/_import_post_type_page.php:140
+msgid "You can now get an all-in-one bundled solution to import and export WooCommerce products, orders, users, and more with premium exclusive features. Get"
+msgstr ""
+
+#: admin/modules/export/views/_export_post_type_page.php:123
+#: admin/modules/import/views/_import_post_type_page.php:141
+msgid "Import Export Suite for WooCommerce."
+msgstr ""
+
+#: admin/modules/history/history.php:38
+msgid "Running/Incomplete"
+msgstr ""
+
+#: admin/modules/history/history.php:40
+msgid "Failed"
+msgstr ""
+
+#: admin/modules/history/history.php:45
+#: admin/modules/import/classes/class-import-ajax.php:1131
+#: admin/modules/import/import.php:282
+#: admin/modules/import/import.php:283
+#: admin/modules/import/views/_import_header.php:8
+#: product-import-export-for-woo.php:167
+msgid "Import"
+msgstr ""
+
+#: admin/modules/history/history.php:46
+msgid "Image Export"
+msgstr ""
+
+#: admin/modules/history/history.php:78
+#: admin/modules/history/history.php:79
+msgid "History"
+msgstr ""
+
+#: admin/modules/history/history.php:87
+#: admin/modules/history/history.php:88
+#: admin/modules/history/views/_log_list.php:21
+msgid "Import Logs"
+msgstr ""
+
+#. translators: %s is the URL to the settings page
+#: admin/modules/history/history.php:201
+msgid "Please check the Generate import log is enabled under <a target = \"_blank\" href=\"%s\">settings</a>"
+msgstr ""
+
+#: admin/modules/history/history.php:240
+msgid "Advanced options"
+msgstr ""
+
+#: admin/modules/history/history.php:245
+msgid "Auto delete history"
+msgstr ""
+
+#: admin/modules/history/history.php:251
+msgid "Enable auto delete for records within the history section."
+msgstr ""
+
+#: admin/modules/history/history.php:260
+msgid "Maximum entries"
+msgstr ""
+
+#: admin/modules/history/history.php:268
+msgid "Indicates the maximum records to retain in history. Limit the number of records with status 'Finished'. E.g., if you enter 50, the system will retain (not delete) the latest 50 records with status 'Finished'. Any other record with a different status will not be retained."
+msgstr ""
+
+#: admin/modules/history/history.php:412
+#: admin/modules/history/views/_history_list.php:111
+msgid "Post type"
+msgstr ""
+
+#: admin/modules/history/history.php:419
+#: admin/modules/history/views/_history_list.php:110
+msgid "Action type"
+msgstr ""
+
+#: admin/modules/history/history.php:426
+#: admin/modules/history/views/_history_list.php:114
+#: admin/modules/history/views/_log_table.php:44
+#: admin/modules/import/views/main.php:49
+#: admin/modules/product_review/product_review.php:473
+msgid "Status"
+msgstr ""
+
+#: admin/modules/history/history.php:446
+msgid "Date descending"
+msgstr ""
+
+#: admin/modules/history/history.php:447
+msgid "Date ascending"
+msgstr ""
+
+#: admin/modules/history/history.php:967
+msgid " record(s)"
+msgstr ""
+
+#: admin/modules/history/views/settings.php:33
+#: admin/modules/history/views/_history_list.php:186
+msgid "View log"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:7
+msgid "Import/Export history"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:10
+msgid "Lists the runs and the status corresponding to every import/export with options to re-run, view detailed log or delete entry."
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:21
+msgid "Filter"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:32
+#: admin/modules/product_review/product_review.php:439
+#: admin/modules/product_review/product_review.php:450
+msgid "All"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:55
+msgid "Sort by"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:68
+msgid "Max record/page"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:89
+#: admin/modules/history/views/_log_list.php:47
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:90
+#: admin/modules/history/views/_history_list.php:154
+#: admin/modules/history/views/_log_list.php:48
+#: admin/modules/history/views/_log_list.php:78
+#: admin/views/admin-settings-pre-saved-templates.php:62
+msgid "Delete"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:107
+#: admin/modules/history/views/_log_list.php:57
+msgid "No."
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:109
+msgid "Id"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:112
+msgid "Started at"
+msgstr ""
+
+#. translators: %1$s and %2$s are HTML bold tags
+#: admin/modules/history/views/_history_list.php:118
+msgid "%1$sSuccess%2$s - Process completed successfully"
+msgstr ""
+
+#. translators: %1$s and %2$s are HTML bold tags
+#: admin/modules/history/views/_history_list.php:120
+msgid "%1$sFailed%2$s - Failed process triggered due to connection/permission or similar issues(unable to establish FTP/DB connection, write permission issues etc.)"
+msgstr ""
+
+#. translators: %1$s and %2$s are HTML bold tags
+#: admin/modules/history/views/_history_list.php:122
+msgid "%1$sRunning/Incomplete%2$s - Process that are running currently or that may have been terminated unknowingly(e.g, closing a browser tab while in progress etc)"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:126
+#: admin/modules/history/views/_log_list.php:60
+msgid "Actions"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:128
+msgid "Re-run will take the user to the respective screen depending on the corresponding action type and the user can initiate the process accordingly."
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:150
+msgid "Unknown"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:173
+msgid "Re-Run"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:194
+#: admin/modules/history/views/_log_list.php:80
+msgid "Download"
+msgstr ""
+
+#: admin/modules/history/views/_history_list.php:211
+#: admin/modules/history/views/_log_table.php:127
+msgid "No records found."
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:23
+msgid "Lists developer logs mostly required for debugging purposes. Options to view detailed logs are available along with delete and download(that can be shared with the support team in case of issues)."
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:59
+msgid "File"
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:79
+msgid "View"
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:92
+msgid "No logs found."
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:94
+msgid "Please enable import log under"
+msgstr ""
+
+#: admin/modules/history/views/_log_list.php:94
+msgid "settings"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:17
+msgid "Item with same ID already exists."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:23
+msgid "Importing item conflicts with an existing post."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:29
+#: admin/modules/product/import/import.php:1569
+msgid "Invalid product type."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:43
+msgid "Row No."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:45
+#: admin/modules/import/views/main.php:48
+msgid "Message"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:46
+#: admin/modules/import/views/main.php:47
+#: admin/views/admin-settings-pre-saved-templates.php:47
+msgid "Item"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:68
+#: admin/modules/product/import/import.php:84
+#: admin/modules/product_categories/import/import.php:70
+#: admin/modules/product_review/import/import.php:97
+#: admin/modules/product_tags/import/import.php:57
+#: admin/modules/request_feature/request_feature.php:90
+msgid "Success"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:68
+#: admin/modules/import/views/main.php:71
+#: admin/modules/product/import/import.php:88
+#: admin/modules/product/import/import.php:93
+#: admin/modules/product_categories/import/import.php:75
+#: admin/modules/product_categories/import/import.php:80
+#: admin/modules/product_review/import/import.php:101
+#: admin/modules/product_review/import/import.php:106
+#: admin/modules/product_tags/import/import.php:61
+#: admin/modules/product_tags/import/import.php:66
+msgid "Failed/Skipped"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:105
+msgid "Please refer"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:105
+msgid "this article"
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:105
+msgid "for troubleshoot."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:119
+msgid "Load more."
+msgstr ""
+
+#: admin/modules/history/views/_log_table.php:120
+msgid "Loading...."
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:170
+msgid "Invalid file type. Please upload a valid import file."
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:207
+msgid "Unable to move uploaded file."
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:211
+msgid "File upload failed. Please try again."
+msgstr ""
+
+#. translators: %d is the maximum file size in MB.
+#: admin/modules/import/classes/class-import-ajax.php:225
+msgid "File size exceeds the limit. %dMB max"
+msgstr ""
+
+#. translators: %s is the list of allowed file types.
+#: admin/modules/import/classes/class-import-ajax.php:230
+msgid "Invalid file type. Only %s is allowed."
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:235
+msgid "No file was uploaded. Please select a file to upload."
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:271
+#: admin/modules/import/import.php:652
+msgid "Invalid file path"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:900
+msgid "Product taxonomies"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:903
+msgid "New taxonomy: "
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:909
+msgid "Custom Field:"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:916
+msgid "Taxonomy attributes"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:919
+msgid "New attribute:"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:925
+msgid "Attribute data:"
+msgstr ""
+
+#: admin/modules/import/classes/class-import-ajax.php:930
+msgid "Attribute default value:"
+msgstr ""
+
+#: admin/modules/import/import.php:73
+msgid "Use a CSV file to import data. As a first step, select the post type."
+msgstr ""
+
+#: admin/modules/import/import.php:76
+msgid "Select import method"
+msgstr ""
+
+#: admin/modules/import/import.php:77
+msgid "Choose from the options below to continue with your import: quick import, based on a pre-saved template or a new import with advanced options."
+msgstr ""
+
+#: admin/modules/import/import.php:80
+msgid "Map import columns"
+msgstr ""
+
+#: admin/modules/import/import.php:81
+msgid "Map the standard columns with your CSV column names."
+msgstr ""
+
+#: admin/modules/import/import.php:84
+msgid "Advanced options/Batch import"
+msgstr ""
+
+#: admin/modules/import/import.php:85
+msgid "Use options from below to decide on the delimiter options, updates to existing products, batch import count or schedule an import. You can also save the template file for future imports."
+msgstr ""
+
+#: admin/modules/import/import.php:90
+msgid "Quick import"
+msgstr ""
+
+#: admin/modules/import/import.php:90
+msgid "Use this option primarily if you exported the input file using the same plugin."
+msgstr ""
+
+#: admin/modules/import/import.php:91
+msgid "Retains the filter parameters and column specifications as per the chosen template and imports data accordingly."
+msgstr ""
+
+#: admin/modules/import/import.php:92
+msgid "Advanced Import"
+msgstr ""
+
+#: admin/modules/import/import.php:92
+msgid "Imports data after a detailed process of filtration, column selection and advanced options. The configured settings can be saved as a template for future imports."
+msgstr ""
+
+#: admin/modules/import/import.php:125
+msgid "Maximum execution time"
+msgstr ""
+
+#: admin/modules/import/import.php:130
+msgid "The maximum execution time, in seconds(eg:- 300, 600, 1800, 3600). If set to zero, no time limit is imposed. Increasing this will reduce the chance of export/import timeouts."
+msgstr ""
+
+#: admin/modules/import/import.php:134
+msgid "Generate Import log"
+msgstr ""
+
+#. translators: %1$s is opening link tag, %2$s is closing link tag
+#: admin/modules/import/import.php:141
+msgid "You can view the logs in the %1$sImport Logs%2$s section or in History > View logs."
+msgstr ""
+
+#: admin/modules/import/import.php:146
+msgid "Default Import method"
+msgstr ""
+
+#: admin/modules/import/import.php:152
+msgid "Select the default method of import."
+msgstr ""
+
+#: admin/modules/import/import.php:155
+msgid "Default Import batch count"
+msgstr ""
+
+#: admin/modules/import/import.php:159
+msgid "Provide the default count for the records to be imported in a batch."
+msgstr ""
+
+#: admin/modules/import/import.php:175
+msgid "Import in batches of"
+msgstr ""
+
+#. translators: %d is the default number of records (10)
+#: admin/modules/import/import.php:180
+msgid "The number of records that the server will process for every iteration within the configured timeout interval. If the import fails you can lower this number accordingly and try again. Defaulted to %d records."
+msgstr ""
+
+#: admin/modules/import/import.php:213
+msgid "Choose file for Import"
+msgstr ""
+
+#: admin/modules/import/import.php:213
+#: admin/views/admin-settings-help.php:9
+msgid "Sample CSV"
+msgstr ""
+
+#: admin/modules/import/import.php:229
+msgid "Select a file"
+msgstr ""
+
+#: admin/modules/import/import.php:262
+msgid "The character used to separate columns in the CSV file. Takes comma (,) by default."
+msgstr ""
+
+#: admin/modules/import/import.php:426
+msgid "Please select an import method."
+msgstr ""
+
+#: admin/modules/import/import.php:427
+#: admin/modules/import/import.php:432
+#: admin/modules/import/views/_import_method_import_page.php:73
+msgid "Please select an import template."
+msgstr ""
+
+#: admin/modules/import/import.php:430
+msgid "Please choose import from."
+msgstr ""
+
+#: admin/modules/import/import.php:431
+msgid "Please choose an import file."
+msgstr ""
+
+#: admin/modules/import/import.php:433
+msgid "Creating temp file and validating."
+msgstr ""
+
+#: admin/modules/import/import.php:434
+msgid "Processing input file..."
+msgstr ""
+
+#: admin/modules/import/import.php:435
+msgid "This column is not present in the import list. Please tick the checkbox to include."
+msgstr ""
+
+#: admin/modules/import/import.php:436
+msgid "Uploading..."
+msgstr ""
+
+#: admin/modules/import/import.php:437
+msgid "You are using an outdated browser. Please upgarde your browser."
+msgstr ""
+
+#: admin/modules/import/import.php:438
+msgid "An error occured."
+msgstr ""
+
+#. translators: %s is a list of allowed file types
+#: admin/modules/import/import.php:440
+msgid "Invalid file type. Only %s are allowed"
+msgstr ""
+
+#: admin/modules/import/import.php:441
+msgid "Drop files here or click to upload"
+msgstr ""
+
+#. translators: %s is a checkmark icon
+#: admin/modules/import/import.php:443
+msgid "%s Done."
+msgstr ""
+
+#: admin/modules/import/import.php:444
+msgid "Remove"
+msgstr ""
+
+#: admin/modules/import/import.php:445
+msgid "No columns have been mapped. Please map the required fields to proceed with the import."
+msgstr ""
+
+#: admin/modules/import/import.php:449
+msgid "View Products"
+msgstr ""
+
+#: admin/modules/import/import.php:453
+msgid "View Product categories"
+msgstr ""
+
+#: admin/modules/import/import.php:457
+msgid "View Product tags"
+msgstr ""
+
+#: admin/modules/import/import.php:461
+msgid "View Product reviews"
+msgstr ""
+
+#: admin/modules/import/import.php:466
+msgid "View Orders"
+msgstr ""
+
+#: admin/modules/import/import.php:470
+msgid "View Coupons"
+msgstr ""
+
+#: admin/modules/import/import.php:474
+msgid "View Users"
+msgstr ""
+
+#: admin/modules/import/import.php:478
+msgid "View Subscriptions"
+msgstr ""
+
+#: admin/modules/import/import.php:582
+#: admin/modules/import/import.php:596
+msgid "Unable to create temp file."
+msgstr ""
+
+#: admin/modules/import/import.php:599
+msgid "Unable to fetch file data."
+msgstr ""
+
+#: admin/modules/import/import.php:603
+msgid "Unable to create temp directory."
+msgstr ""
+
+#: admin/modules/import/import.php:606
+msgid "File type not allowed."
+msgstr ""
+
+#: admin/modules/import/import.php:609
+msgid "File not found."
+msgstr ""
+
+#. translators: %s is the file source type (e.g., FTP, URL)
+#: admin/modules/import/import.php:621
+msgid "Unable to initailize %s"
+msgstr ""
+
+#: admin/modules/import/import.php:647
+msgid "Invalid file path after filtering"
+msgstr ""
+
+#: admin/modules/import/import.php:818
+msgid "Error occurred while processing the file"
+msgstr ""
+
+#: admin/modules/import/import.php:842
+msgid "Temp file missing."
+msgstr ""
+
+#. translators: %d is the number of processed records
+#: admin/modules/import/import.php:915
+#: admin/modules/import/import.php:1161
+msgid "Importing...(%d processed)"
+msgstr ""
+
+#: admin/modules/import/import.php:977
+#: admin/modules/import/import.php:985
+msgid "Temp file missing"
+msgstr ""
+
+#: admin/modules/import/import.php:1020
+msgid "CSV is empty"
+msgstr ""
+
+#: admin/modules/import/import.php:1026
+msgid "Unable to process the file"
+msgstr ""
+
+#: admin/modules/import/import.php:1163
+msgid "Total success:"
+msgstr ""
+
+#: admin/modules/import/import.php:1163
+msgid "Total failed:"
+msgstr ""
+
+#: admin/modules/import/import.php:1169
+msgid "View Details"
+msgstr ""
+
+#. translators: %1$s is the opening link tag, %2$s is the closing link tag.
+#: admin/modules/import/import.php:1239
+msgid "Access denied. This may be due to an expired nonce. Please reload the page and try again. If the issue persists, please refer to our %1$stroubleshooting guide%2$s."
+msgstr ""
+
+#: admin/modules/import/views/main.php:28
+msgid "History Details"
+msgstr ""
+
+#: admin/modules/import/views/main.php:39
+msgid "Import progress"
+msgstr ""
+
+#: admin/modules/import/views/main.php:46
+msgid "Row"
+msgstr ""
+
+#: admin/modules/import/views/main.php:66
+msgid "Import Completed"
+msgstr ""
+
+#: admin/modules/import/views/main.php:69
+msgid "Total records identified"
+msgstr ""
+
+#: admin/modules/import/views/main.php:70
+msgid "Imported successfully"
+msgstr ""
+
+#: admin/modules/import/views/main.php:79
+msgid "Time taken to complete"
+msgstr ""
+
+#: admin/modules/import/views/main.php:83
+msgid "View Item"
+msgstr ""
+
+#: admin/modules/import/views/main.php:85
+msgid "View Log"
+msgstr ""
+
+#: admin/modules/import/views/main.php:164
+msgid "Get scheduled imports and exports"
+msgstr ""
+
+#: admin/modules/import/views/main.php:166
+msgid "Get Premium Support"
+msgstr ""
+
+#: admin/modules/import/views/main.php:167
+msgid "99% Happy Customers 😊"
+msgstr ""
+
+#: admin/modules/import/views/main.php:171
+msgid "Upgrade to premium and enjoy scheduled imports and exports using WordPress cron and Server cron."
+msgstr ""
+
+#: admin/modules/import/views/main.php:171
+#: admin/modules/import/views/main.php:172
+msgid "Upgrade to pro now."
+msgstr ""
+
+#: admin/modules/import/views/main.php:172
+msgid "With the premium version, you can import and export custom fields and meta data."
+msgstr ""
+
+#: admin/modules/import/views/main.php:173
+msgid "Experience our premium and priority support for hassle-free import/export of WooCommerce products."
+msgstr ""
+
+#: admin/modules/import/views/main.php:173
+msgid "Get Premium Support."
+msgstr ""
+
+#: admin/modules/import/views/main.php:174
+msgid "We take pride in our 99% customer satisfaction rating and provide top-tier priority support to enhance your experience."
+msgstr ""
+
+#: admin/modules/import/views/main.php:174
+msgid "Join 99% Happy Customers."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:7
+msgid "Click to use"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:15
+msgid "Set value for column:"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:19
+msgid "If you want to compute or combine any column values during import you can do it below."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:20
+msgid "Learn More"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:21
+msgid " Supported operators:"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:22
+msgid " Example:"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:29
+msgid "Input file columns"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:31
+msgid "Type here to search"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:49
+msgid "No column found."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:53
+msgid "Preview"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:55
+msgid "Sample value based on the first record from input file."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:69
+msgid "The first row from your input file is considered as a header for mapping columns and hence will NOT BE imported."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:71
+msgid "Columns are mapped automatically only if a matching header name is found in the input file."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:73
+msgid "In the case of empty fields, you can simply click on the respective field and map the corresponding column from your input file."
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:89
+#: admin/modules/import/views/_import_meta_step_page.php:16
+msgid "fields"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:90
+#: admin/modules/import/views/_import_meta_step_page.php:17
+msgid "File columns"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_page.php:91
+#: admin/modules/import/views/_import_meta_step_page.php:18
+msgid "Transform"
+msgstr ""
+
+#: admin/modules/import/views/_import_mapping_tr_html.php:18
+msgid "Use expression"
+msgstr ""
+
+#: admin/modules/import/views/_import_method_import_page.php:77
+msgid "Import method"
+msgstr ""
+
+#: admin/modules/import/views/_import_method_import_page.php:98
+msgid "Ensure the import file has the user's email ID for a successful import. Use default column name <b>user_email</b> or map the column accordingly if you are using a custom column name."
+msgstr ""
+
+#: admin/modules/import/views/_import_method_import_page.php:102
+msgid "Import template"
+msgstr ""
+
+#: admin/modules/import/views/_import_method_import_page.php:130
+msgid "Get advanced features like FTP/SFTP import, and support for XLSX, XLS, XML, and TXT files with our premium version."
+msgstr ""
+
+#. translators: 1: html b. 2: html b close.
+#: admin/modules/import/views/_import_post_type_page.php:13
+msgid "For a complete store migration, we recommend you to import the files in the following sequence: %1$s User/Customer > Product categories > Product tags > Product > Product Review > Coupon > Order > Subscription %2$s "
+msgstr ""
+
+#: admin/modules/product/data/data-allowed-product-types.php:7
+msgid "Simple product"
+msgstr ""
+
+#: admin/modules/product/data/data-allowed-product-types.php:8
+msgid "Grouped product"
+msgstr ""
+
+#: admin/modules/product/data/data-allowed-product-types.php:9
+msgid "External/Affiliate product"
+msgstr ""
+
+#: admin/modules/product/export/export.php:182
+msgid "Nothing to export under the selected criteria. Please check if any supported product type ( simple, grouped or external ) is available in the shop or try adjusting the filters."
+msgstr ""
+
+#: admin/modules/product/import/import.php:88
+#: admin/modules/product/import/import.php:93
+#: admin/modules/product_categories/import/import.php:75
+#: admin/modules/product_categories/import/import.php:80
+#: admin/modules/product_review/import/import.php:101
+#: admin/modules/product_review/import/import.php:106
+#: admin/modules/product_tags/import/import.php:61
+#: admin/modules/product_tags/import/import.php:66
+msgid "Untitled"
+msgstr ""
+
+#: admin/modules/product/import/import.php:234
+msgid "This product type is not supported."
+msgstr ""
+
+#. translators: %d: product ID
+#: admin/modules/product/import/import.php:1583
+msgid "Invalid product ID %d."
+msgstr ""
+
+#: admin/modules/product/import/import.php:1903
+msgid "Zero size file downloaded"
+msgstr ""
+
+#. translators: %s: image URL
+#: admin/modules/product/import/import.php:2004
+msgid "Not able to attach \"%s\"."
+msgstr ""
+
+#. translators: %s: image URL
+#: admin/modules/product/import/import.php:2015
+msgid "Unable to use image \"%s\"."
+msgstr ""
+
+#: admin/modules/product/product.php:98
+#: product-import-export-for-woo.php:289
+msgid "Export to CSV"
+msgstr ""
+
+#: admin/modules/product/product.php:148
+msgid "Use advanced options from below to decide updates to existing products, batch import count. You can also save the template file for future imports."
+msgstr ""
+
+#: admin/modules/product/product.php:221
+#: admin/modules/product/product.php:236
+#: admin/modules/product_categories/product_categories.php:180
+#: admin/modules/product_review/product_review.php:180
+#: admin/modules/product_tags/product_tags.php:179
+msgid "Product"
+msgstr ""
+
+#: admin/modules/product/product.php:222
+#: admin/modules/product/product.php:237
+#: admin/modules/product_categories/product_categories.php:181
+#: admin/modules/product_review/product_review.php:181
+#: admin/modules/product_tags/product_tags.php:180
+msgid "Product Review"
+msgstr ""
+
+#: admin/modules/product/product.php:223
+#: admin/modules/product/product.php:238
+#: admin/modules/product_categories/product_categories.php:182
+#: admin/modules/product_review/product_review.php:182
+#: admin/modules/product_tags/product_tags.php:181
+#: admin/views/admin-settings-marketing.php:69
+#: admin/views/admin-settings-marketing.php:82
+#: admin/views/admin-settings-marketing.php:95
+#: admin/views/admin-settings-marketing.php:286
+#: admin/views/admin-settings-marketing.php:299
+#: admin/views/admin-settings-marketing.php:312
+#: admin/views/admin-settings-marketing.php:445
+#: admin/views/admin-settings-marketing.php:458
+#: admin/views/admin-settings-marketing.php:471
+msgid "Product Categories"
+msgstr ""
+
+#: admin/modules/product/product.php:224
+#: admin/modules/product/product.php:239
+#: admin/modules/product_categories/product_categories.php:183
+#: admin/modules/product_review/product_review.php:183
+#: admin/modules/product_tags/product_tags.php:182
+#: admin/views/admin-settings-marketing.php:70
+#: admin/views/admin-settings-marketing.php:83
+#: admin/views/admin-settings-marketing.php:96
+#: admin/views/admin-settings-marketing.php:287
+#: admin/views/admin-settings-marketing.php:300
+#: admin/views/admin-settings-marketing.php:313
+#: admin/views/admin-settings-marketing.php:446
+#: admin/views/admin-settings-marketing.php:459
+#: admin/views/admin-settings-marketing.php:472
+msgid "Product Tags"
+msgstr ""
+
+#: admin/modules/product/product.php:227
+#: admin/modules/product/product.php:234
+#: admin/modules/product_categories/product_categories.php:178
+#: admin/modules/product_review/product_review.php:178
+#: admin/modules/product_tags/product_tags.php:177
+msgid "Order"
+msgstr ""
+
+#: admin/modules/product/product.php:228
+#: admin/modules/product/product.php:235
+#: admin/modules/product_categories/product_categories.php:179
+#: admin/modules/product_review/product_review.php:179
+#: admin/modules/product_tags/product_tags.php:178
+msgid "Coupon"
+msgstr ""
+
+#: admin/modules/product/product.php:232
+#: admin/modules/product/product.php:240
+#: admin/modules/product_categories/product_categories.php:184
+#: admin/modules/product_review/product_review.php:184
+#: admin/modules/product_tags/product_tags.php:183
+msgid "User/Customer"
+msgstr ""
+
+#: admin/modules/product/product.php:241
+#: admin/modules/product_categories/product_categories.php:185
+#: admin/modules/product_review/product_review.php:185
+#: admin/modules/product_tags/product_tags.php:184
+msgid "Subscription"
+msgstr ""
+
+#: admin/modules/product/product.php:560
+msgid "Taxonomies (categories/tags/shipping-class)"
+msgstr ""
+
+#: admin/modules/product/product.php:562
+msgid "Attributes"
+msgstr ""
+
+#: admin/modules/product/product.php:564
+msgid "Hidden meta"
+msgstr ""
+
+#: admin/modules/product/product.php:581
+msgid "Upgrade to premium 💎"
+msgstr ""
+
+#: admin/modules/product/product.php:586
+msgid "We've detected hidden WooCommerce metadata & custom product fields in your store. Unlock full access to export them seamlessly."
+msgstr ""
+
+#: admin/modules/product/product.php:606
+msgid "Upgrade now"
+msgstr ""
+
+#: admin/modules/product/product.php:998
+msgid "Skip import of new products"
+msgstr ""
+
+#: admin/modules/product/product.php:1001
+#: admin/modules/product/product.php:1088
+#: admin/modules/product_review/product_review.php:527
+#: admin/modules/product_review/product_review.php:587
+#: admin/modules/product_review/product_review.php:604
+#: admin/partials/_form_field_generator.php:323
+msgid "No"
+msgstr ""
+
+#: admin/modules/product/product.php:1002
+#: admin/modules/product/product.php:1087
+#: admin/modules/product_review/product_review.php:526
+#: admin/modules/product_review/product_review.php:586
+#: admin/modules/product_review/product_review.php:603
+#: admin/partials/_form_field_generator.php:322
+msgid "Yes"
+msgstr ""
+
+#: admin/modules/product/product.php:1009
+msgid "This option will not import the new products from the input file."
+msgstr ""
+
+#: admin/modules/product/product.php:1015
+msgid "This option will import the new products from the input file."
+msgstr ""
+
+#: admin/modules/product/product.php:1028
+msgid "Match products by their"
+msgstr ""
+
+#: admin/modules/product/product.php:1031
+msgid "ID"
+msgstr ""
+
+#: admin/modules/product/product.php:1032
+msgid "SKU"
+msgstr ""
+
+#: admin/modules/product/product.php:1040
+msgid "To look up the product on the basis of ID."
+msgstr ""
+
+#: admin/modules/product/product.php:1046
+msgid "To look up the product on the basis of SKU.<br/><br/><b>Note:</b> If the ID of a product in the input file is different from that of the product ID in site, then match products by SKU. If in case, the product has no SKU, it will be imported as a new item even if the file contains the correct ID."
+msgstr ""
+
+#: admin/modules/product/product.php:1055
+msgid "If product exists in the store"
+msgstr ""
+
+#: admin/modules/product/product.php:1058
+#: admin/modules/product_categories/product_categories.php:360
+#: admin/modules/product_review/product_review.php:556
+#: admin/modules/product_tags/product_tags.php:361
+msgid "Skip"
+msgstr ""
+
+#: admin/modules/product/product.php:1059
+#: admin/modules/product_categories/product_categories.php:361
+#: admin/modules/product_review/product_review.php:557
+#: admin/modules/product_tags/product_tags.php:362
+msgid "Update"
+msgstr ""
+
+#: admin/modules/product/product.php:1065
+msgid "This option will not update the existing products."
+msgstr ""
+
+#: admin/modules/product/product.php:1071
+msgid "This option will update the existing products as per the data from the input file."
+msgstr ""
+
+#: admin/modules/product/product.php:1084
+#: admin/modules/product_review/product_review.php:583
+msgid "Update even if empty values"
+msgstr ""
+
+#: admin/modules/product/product.php:1092
+msgid "Updates the product data respectively even if some of the columns in the input file contains empty value."
+msgstr ""
+
+#: admin/modules/product/product.php:1117
+msgid "Total number of products to export"
+msgstr ""
+
+#: admin/modules/product/product.php:1118
+msgid "Exports specified number of products. e.g. Entering 500 with a skip count of 10 will export products from 11th to 510th position."
+msgstr ""
+
+#: admin/modules/product/product.php:1119
+msgid "Skip first <i>n</i> products"
+msgstr ""
+
+#: admin/modules/product/product.php:1120
+msgid "Skips specified number of products from the beginning of the database. e.g. Enter 10 to skip first 10 products from export."
+msgstr ""
+
+#: admin/modules/product/product.php:1124
+#: admin/modules/product_review/product_review.php:427
+#: admin/views/admin-settings-marketing.php:67
+#: admin/views/admin-settings-marketing.php:80
+#: admin/views/admin-settings-marketing.php:93
+#: admin/views/admin-settings-marketing.php:284
+#: admin/views/admin-settings-marketing.php:297
+#: admin/views/admin-settings-marketing.php:310
+#: admin/views/admin-settings-marketing.php:443
+#: admin/views/admin-settings-marketing.php:456
+#: admin/views/admin-settings-marketing.php:469
+msgid "Products"
+msgstr ""
+
+#: admin/modules/product/product.php:1125
+msgid "All products"
+msgstr ""
+
+#: admin/modules/product/product.php:1129
+msgid "Export specific products. Key in the product names to export multiple products."
+msgstr ""
+
+#: admin/modules/product/product.php:1135
+msgid "Stock status"
+msgstr ""
+
+#: admin/modules/product/product.php:1136
+#: admin/modules/product/product.php:1138
+#: admin/modules/product_review/product_review.php:474
+msgid "All status"
+msgstr ""
+
+#: admin/modules/product/product.php:1138
+msgid "In Stock"
+msgstr ""
+
+#: admin/modules/product/product.php:1138
+msgid "Out of Stock"
+msgstr ""
+
+#: admin/modules/product/product.php:1138
+msgid "On backorder"
+msgstr ""
+
+#: admin/modules/product/product.php:1139
+msgid "Export products based on stock status."
+msgstr ""
+
+#: admin/modules/product/product.php:1144
+#: admin/modules/product/product.php:1145
+msgid "Exclude products"
+msgstr ""
+
+#: admin/modules/product/product.php:1149
+msgid "Use this if you need to exclude a specific or multiple products from your export list."
+msgstr ""
+
+#: admin/modules/product/product.php:1156
+msgid "Product categories"
+msgstr ""
+
+#: admin/modules/product/product.php:1157
+msgid "Any category"
+msgstr ""
+
+#: admin/modules/product/product.php:1160
+msgid "Export products belonging to a particular or from multiple categories. Just select the respective categories."
+msgstr ""
+
+#: admin/modules/product/product.php:1167
+msgid "Product tags"
+msgstr ""
+
+#: admin/modules/product/product.php:1168
+msgid "Any tag"
+msgstr ""
+
+#: admin/modules/product/product.php:1171
+msgid "Enter the product tags to export only the respective products that have been tagged accordingly."
+msgstr ""
+
+#: admin/modules/product/product.php:1178
+msgid "Product status"
+msgstr ""
+
+#: admin/modules/product/product.php:1179
+msgid "Any status"
+msgstr ""
+
+#: admin/modules/product/product.php:1182
+msgid "Filter products by their status."
+msgstr ""
+
+#: admin/modules/product/product.php:1189
+msgid "Product brand"
+msgstr ""
+
+#: admin/modules/product/product.php:1190
+msgid "Any brand"
+msgstr ""
+
+#: admin/modules/product/product.php:1193
+msgid "Enter the product brands to export only the respective products that have been branded accordingly."
+msgstr ""
+
+#: admin/modules/product_categories/export/export.php:89
+#: admin/modules/product_review/export/export.php:159
+#: admin/modules/product_tags/export/export.php:87
+msgid "Nothing to export under the selected criteria. Please check and try adjusting the filters."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:79
+msgid "Use advanced options from below to decide updates to existing categories, batch import count. You can also save the template file for future imports."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:216
+msgid "Category ID"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:217
+msgid "Category name"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:218
+msgid "Category slug"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:317
+#: admin/modules/product_review/product_review.php:485
+#: admin/modules/product_tags/product_tags.php:319
+msgid "Sort Columns"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:318
+#: admin/modules/product_review/product_review.php:486
+#: admin/modules/product_tags/product_tags.php:320
+msgid "comment_ID"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:321
+#: admin/modules/product_review/product_review.php:489
+#: admin/modules/product_tags/product_tags.php:323
+msgid "Sort the exported data based on the selected column in the order specified. Defaulted to ascending order."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:326
+#: admin/modules/product_tags/product_tags.php:328
+msgid "Sort"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:327
+#: admin/modules/product_review/product_review.php:495
+#: admin/modules/product_tags/product_tags.php:329
+msgid "ASC"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:330
+#: admin/modules/product_review/product_review.php:498
+#: admin/modules/product_tags/product_tags.php:332
+msgid "Defaulted to Ascending. Applicable to above selected columns in the order specified."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:357
+msgid "If the category exists in the store"
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:365
+msgid "Categories are matched by their ID/slugs."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:368
+msgid "Retains the categories in the store as is and skips the matching category from the input file."
+msgstr ""
+
+#: admin/modules/product_categories/product_categories.php:374
+msgid "Update category as per data from the input file"
+msgstr ""
+
+#: admin/modules/product_review/import/import.php:199
+msgid "Product SKU is empty, Skipped the review."
+msgstr ""
+
+#: admin/modules/product_review/import/import.php:204
+msgid "No product id found, Skipped the review."
+msgstr ""
+
+#: admin/modules/product_review/import/import.php:219
+msgid "No Product found for given SKU, Skipped the review."
+msgstr ""
+
+#: admin/modules/product_review/import/import.php:228
+msgid "Post is not a product, Skipped the review."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:79
+msgid "Use advanced options from below to decide updates to existing reviews, batch import count. You can also save the template file for future imports."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:396
+msgid "Total number of reviews to export"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:397
+msgid "Exports specified number of reviews. e.g. Entering 500 with a skip count of 10 will export reviews from 11th to 510th position."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:398
+msgid "Skip first <i>n</i> reviews"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:399
+msgid "Skips specified number of reviews from the beginning of the database. e.g. Enter 10 to skip first 10 reviews from export."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:402
+msgid "Date From"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:403
+#: admin/modules/product_review/product_review.php:415
+msgid "Date"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:406
+msgid "Date on which the review was received. Export products reviews received on and after the specified date."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:414
+msgid "Date To"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:418
+msgid "Date on which the review was received. Export products reviews received upto the specified date."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:428
+msgid "All product"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:431
+msgid "Input the product name to export respective reviews."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:438
+msgid "Stars"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:442
+msgid "Export reviews of a specific star rating."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:449
+msgid "Customer/Guest Review"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:453
+msgid "Export reviews by customer or guest or both."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:462
+msgid "Review with replies"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:466
+msgid "Enable to include the replies along with the respective reviews."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:477
+msgid "Export reviews by specific post status."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:494
+msgid "Sort By"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:523
+msgid "Update Only"
+msgstr ""
+
+#. translators: %1$s and %2$s are HTML bold tags
+#: admin/modules/product_review/product_review.php:534
+msgid "The store is updated with the data from the input file only for matching/existing records from the file. In case of a conflict with %1$sIDs of other existing post types%2$s the reviews will not be imported."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:540
+msgid "The entire data from the input file is processed for an update or insert as the case maybe."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:553
+msgid "If the review exists in the store"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:561
+msgid "Reviews are matched by their IDs."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:564
+msgid "Retains the order in the store as is and skips the matching order from the input file."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:570
+msgid "Update order as per data from the input file"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:591
+msgid "Updates the order data respectively even if some of the columns in the input file contains empty value."
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:600
+msgid "Associate product reviews by SKU"
+msgstr ""
+
+#: admin/modules/product_review/product_review.php:610
+msgid "Link the products reviews being imported with the respective products by their SKU."
+msgstr ""
+
+#. translators: %1$s and %2$s are HTML bold tags
+#: admin/modules/product_review/product_review.php:617
+msgid " Link the products reviews being imported with the respective products by their product ID. In case of a conflict with %1$sIDs of other existing post types%2$s the reviews will not be imported."
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:79
+msgid "Use advanced options from below to decide updates to existing tags, batch import count. You can also save the template file for future imports."
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:218
+msgid "Tag ID"
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:219
+msgid "Tag name"
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:220
+msgid "Tag slug"
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:358
+msgid "If the tag exists in the store"
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:366
+msgid "Tags are matched by their ID/slugs."
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:369
+msgid "Retains the tag in the store as is and skips the matching tag from the input file."
+msgstr ""
+
+#: admin/modules/product_tags/product_tags.php:375
+msgid "Update tag as per data from the input file"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:56
+msgid "Please enter your message."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:60
+#: admin/modules/request_feature/request_feature.php:107
+msgid "We need your email address to contact you back."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:106
+msgid "Please enter a message"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:108
+msgid "Sending..."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:109
+msgid "Unable to submit. Please try again later."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:110
+msgid "Thank you for your valuable suggestion."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:127
+msgid "Missing a feature?"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:128
+msgid "Drop a message to let us know!"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:139
+msgid "What would you like to add as a new feature?"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:140
+msgid "More the details you share, the better."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:141
+msgid "I would like..."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:146
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:43
+msgid "Webtoffee can contact me about this feedback."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:151
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:46
+msgid "Enter your email address."
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:152
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:48
+msgid "Enter email address"
+msgstr ""
+
+#: admin/modules/request_feature/request_feature.php:157
+msgid "Send feature request"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-display.php:10
+msgid "Import Export for WooCommerce"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-display.php:15
+msgid "General"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-display.php:16
+msgid "Help Guide"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-display.php:17
+msgid "Pro Upgrade"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-display.php:18
+msgid "Other Solutions"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:38
+msgid "Automate Using Scheduled Imports and Exports"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:41
+msgid "Escape from the troubles of manually importing and exporting data on your WooCommerce Store and enjoy the power of scheduled "
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:42
+msgid "automation."
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:50
+msgid "Product Import Export Plugin Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:63
+msgid "wt_review_star"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:75
+msgid "Scheduled Job Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:89
+msgid "Check Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:96
+msgid "Automate regular import/export jobs with ease"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:97
+msgid "Run scheduled imports and exports in the background"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:98
+msgid "Choose your schedule: daily, weekly, monthly, or custom intervals"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:99
+msgid "Choose your ideal start time for maximum efficiency"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:100
+msgid "Supports both WordPress and Server Cron"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:113
+msgid "Checkout Plugin"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:122
+msgid "Headphone Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:123
+msgid "Fast and Priority Support"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:131
+msgid "Dollar Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:132
+#: admin/views/admin-settings-other-solutions.php:549
+msgid "30 Day Money Back Guarantee"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:140
+msgid "Heart Icon"
+msgstr ""
+
+#: admin/partials/wt-import-export-for-woo-admin-schedule-job.php:141
+msgid "99% Satisfaction rating"
+msgstr ""
+
+#. translators: $1: user name, $2 user id, $3: user email
+#: admin/partials/_form_field_generator.php:254
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:363
+msgid "Choose a file."
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:363
+msgid "Select"
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:363
+msgid "Upload"
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:375
+msgid "Drag and Drop"
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:376
+msgid "or"
+msgstr ""
+
+#: admin/partials/_form_field_generator.php:377
+msgid " Click and Upload"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:10
+msgid "WebToffee Import Export"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:11
+msgid "Developed by "
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:22
+msgid "FAQ"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:23
+msgid "Setup guide"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:24
+msgid "Contact support"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:25
+msgid "Request a feature"
+msgstr ""
+
+#: admin/views/admin-header-and-help.php:27
+msgid "Help"
+msgstr ""
+
+#: admin/views/admin-settings-help.php:8
+msgid "Help Links"
+msgstr ""
+
+#: admin/views/admin-settings-help.php:18
+msgid "Refer to our documentation to set up and get started."
+msgstr ""
+
+#: admin/views/admin-settings-help.php:25
+msgid "Help and Support"
+msgstr ""
+
+#: admin/views/admin-settings-help.php:26
+msgid "We would love to help you on any queries or issues."
+msgstr ""
+
+#: admin/views/admin-settings-help.php:28
+msgid "Contact Us"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:8
+msgid "One stop solution for all your import-export needs."
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:9
+msgid "Upgrade to the premium version and get access to the advanced features with premium support."
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:14
+msgid "PRODUCT IMPORT EXPORT PLUGIN FOR WOOCOMMERCE"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:15
+msgid "Imports and exports all product types and reviews. Supports both CSV and XML file formats."
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:17
+#: admin/views/admin-settings-marketing.php:28
+#: admin/views/admin-settings-marketing.php:39
+#: admin/views/admin-settings-marketing.php:595
+msgid "Get Premium"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:18
+#: admin/views/admin-settings-marketing.php:29
+#: admin/views/admin-settings-marketing.php:40
+msgid "Compare with basic"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:25
+msgid "WORDPRESS USERS & WOOCOMMERCE CUSTOMERS IMPORT EXPORT"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:26
+msgid "Import and export all your WordPress User and WooCommerce Customer data in CSV/XML file formats."
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:36
+msgid "ORDER, COUPON, SUBSCRIPTION EXPORT IMPORT FOR WOOCOMMERCE"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:37
+msgid "Export or Import WooCommerce orders, Coupons and Subscriptions."
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:56
+#: admin/views/admin-settings-marketing.php:271
+#: admin/views/admin-settings-marketing.php:429
+msgid "Features"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:57
+#: admin/views/admin-settings-marketing.php:272
+#: admin/views/admin-settings-marketing.php:430
+msgid "Free"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:59
+#: admin/views/admin-settings-marketing.php:274
+#: admin/views/admin-settings-marketing.php:432
+msgid "Import Export Suite"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:64
+#: admin/views/admin-settings-marketing.php:279
+#: admin/views/admin-settings-marketing.php:437
+msgid "Import and export"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:68
+#: admin/views/admin-settings-marketing.php:81
+#: admin/views/admin-settings-marketing.php:94
+#: admin/views/admin-settings-marketing.php:285
+#: admin/views/admin-settings-marketing.php:298
+#: admin/views/admin-settings-marketing.php:311
+#: admin/views/admin-settings-marketing.php:444
+#: admin/views/admin-settings-marketing.php:457
+#: admin/views/admin-settings-marketing.php:470
+msgid "Product Reviews"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:71
+#: admin/views/admin-settings-marketing.php:84
+#: admin/views/admin-settings-marketing.php:97
+#: admin/views/admin-settings-marketing.php:288
+#: admin/views/admin-settings-marketing.php:301
+#: admin/views/admin-settings-marketing.php:314
+#: admin/views/admin-settings-marketing.php:440
+#: admin/views/admin-settings-marketing.php:453
+#: admin/views/admin-settings-marketing.php:466
+msgid "Orders"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:72
+#: admin/views/admin-settings-marketing.php:85
+#: admin/views/admin-settings-marketing.php:98
+#: admin/views/admin-settings-marketing.php:289
+#: admin/views/admin-settings-marketing.php:302
+#: admin/views/admin-settings-marketing.php:315
+#: admin/views/admin-settings-marketing.php:441
+#: admin/views/admin-settings-marketing.php:454
+#: admin/views/admin-settings-marketing.php:467
+msgid "Coupons"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:73
+#: admin/views/admin-settings-marketing.php:86
+#: admin/views/admin-settings-marketing.php:99
+#: admin/views/admin-settings-marketing.php:290
+#: admin/views/admin-settings-marketing.php:303
+#: admin/views/admin-settings-marketing.php:316
+#: admin/views/admin-settings-marketing.php:442
+#: admin/views/admin-settings-marketing.php:455
+#: admin/views/admin-settings-marketing.php:468
+msgid "Subscriptions"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:74
+#: admin/views/admin-settings-marketing.php:87
+#: admin/views/admin-settings-marketing.php:100
+#: admin/views/admin-settings-marketing.php:282
+#: admin/views/admin-settings-marketing.php:295
+#: admin/views/admin-settings-marketing.php:308
+#: admin/views/admin-settings-marketing.php:447
+#: admin/views/admin-settings-marketing.php:460
+#: admin/views/admin-settings-marketing.php:473
+msgid "WordPress Users"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:75
+#: admin/views/admin-settings-marketing.php:88
+#: admin/views/admin-settings-marketing.php:101
+#: admin/views/admin-settings-marketing.php:283
+#: admin/views/admin-settings-marketing.php:296
+#: admin/views/admin-settings-marketing.php:309
+#: admin/views/admin-settings-marketing.php:448
+#: admin/views/admin-settings-marketing.php:461
+#: admin/views/admin-settings-marketing.php:474
+#: admin/views/market.php:126
+msgid "WooCommerce Customers"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:106
+msgid "Supported product types"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:109
+#: admin/views/admin-settings-marketing.php:121
+#: admin/views/admin-settings-marketing.php:133
+msgid "Simple Products"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:110
+#: admin/views/admin-settings-marketing.php:122
+#: admin/views/admin-settings-marketing.php:134
+msgid "Grouped Products"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:111
+#: admin/views/admin-settings-marketing.php:123
+#: admin/views/admin-settings-marketing.php:135
+msgid "External/Affiliate Products"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:112
+#: admin/views/admin-settings-marketing.php:124
+#: admin/views/admin-settings-marketing.php:136
+msgid "Variable product"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:113
+#: admin/views/admin-settings-marketing.php:125
+#: admin/views/admin-settings-marketing.php:137
+msgid "Simple subscription"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:114
+#: admin/views/admin-settings-marketing.php:126
+#: admin/views/admin-settings-marketing.php:138
+msgid "Variable subscription"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:115
+#: admin/views/admin-settings-marketing.php:127
+#: admin/views/admin-settings-marketing.php:139
+msgid "WooCommerce Bookings"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:116
+#: admin/views/admin-settings-marketing.php:128
+#: admin/views/admin-settings-marketing.php:140
+msgid "Custom Products"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:145
+#: admin/views/admin-settings-marketing.php:321
+#: admin/views/admin-settings-marketing.php:479
+msgid "Supported file types"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:150
+#: admin/views/admin-settings-marketing.php:157
+#: admin/views/admin-settings-marketing.php:164
+#: admin/views/admin-settings-marketing.php:326
+#: admin/views/admin-settings-marketing.php:333
+#: admin/views/admin-settings-marketing.php:340
+#: admin/views/admin-settings-marketing.php:484
+#: admin/views/admin-settings-marketing.php:491
+#: admin/views/admin-settings-marketing.php:498
+msgid "Excel"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:169
+#: admin/views/admin-settings-marketing.php:345
+#: admin/views/admin-settings-marketing.php:503
+msgid "Supported import methods"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:173
+#: admin/views/admin-settings-marketing.php:181
+#: admin/views/admin-settings-marketing.php:189
+#: admin/views/admin-settings-marketing.php:349
+#: admin/views/admin-settings-marketing.php:357
+#: admin/views/admin-settings-marketing.php:365
+#: admin/views/admin-settings-marketing.php:507
+#: admin/views/admin-settings-marketing.php:515
+#: admin/views/admin-settings-marketing.php:523
+msgid "FTP/SFTP"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:174
+#: admin/views/admin-settings-marketing.php:182
+#: admin/views/admin-settings-marketing.php:190
+#: admin/views/admin-settings-marketing.php:350
+#: admin/views/admin-settings-marketing.php:358
+#: admin/views/admin-settings-marketing.php:366
+#: admin/views/admin-settings-marketing.php:508
+#: admin/views/admin-settings-marketing.php:516
+#: admin/views/admin-settings-marketing.php:524
+msgid "From URL"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:175
+#: admin/views/admin-settings-marketing.php:183
+#: admin/views/admin-settings-marketing.php:191
+#: admin/views/admin-settings-marketing.php:351
+#: admin/views/admin-settings-marketing.php:359
+#: admin/views/admin-settings-marketing.php:367
+#: admin/views/admin-settings-marketing.php:509
+#: admin/views/admin-settings-marketing.php:517
+#: admin/views/admin-settings-marketing.php:525
+msgid "From existing files"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:196
+#: admin/views/admin-settings-marketing.php:372
+#: admin/views/admin-settings-marketing.php:530
+msgid "Automatic scheduled import & export"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:202
+#: admin/views/admin-settings-marketing.php:378
+#: admin/views/admin-settings-marketing.php:536
+msgid "Import & export custom fields ( metadata )"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:208
+#: admin/views/admin-settings-marketing.php:384
+#: admin/views/admin-settings-marketing.php:542
+msgid "Import & export hidden meta"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:214
+msgid "Bulk delete products"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:220
+msgid "Option to import products as new item during post id conflicts"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:226
+#: admin/views/admin-settings-marketing.php:396
+#: admin/views/admin-settings-marketing.php:566
+#: admin/views/admin-settings-other-solutions.php:195
+#: admin/views/admin-settings-other-solutions.php:217
+#: admin/views/admin-settings-other-solutions.php:253
+#: product-import-export-for-woo.php:265
+msgid "Export to FTP/SFTP"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:232
+#: admin/views/admin-settings-marketing.php:402
+#: admin/views/admin-settings-marketing.php:572
+msgid "Set CSV delimiter for export"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:238
+msgid "Export images as a separate zip"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:244
+msgid "Convert shortcodes to HTML on export"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:250
+#: admin/views/admin-settings-marketing.php:408
+#: admin/views/admin-settings-marketing.php:578
+msgid "Custom export filename"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:390
+msgid "Option to email new users on import"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:548
+msgid "Email customers on order status update"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:554
+msgid "Create customers on order import"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:560
+msgid "Bulk delete orders/coupons/subcriptions"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:593
+#: admin/views/admin-settings-other-solutions.php:245
+#: admin/views/market.php:181
+msgid "Import Export Suite for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-marketing.php:594
+msgid "WooCommerce Import Export Suite is an all-in-one bundle of plugins with which you can import and export WooCommerce products, product reviews, orders, customers, coupons and subscriptions."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:18
+msgid "E-commerce Promotions"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:19
+msgid "Create and run successful promotional campaigns with the best marketing tools for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:25
+msgid "Smart Coupons for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:29
+msgid "Advanced BOGO Coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:30
+msgid "Offer store credits"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:31
+msgid "Create attractive gift cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:32
+msgid "Give away product coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:33
+msgid "Coupons based on past purchases"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:34
+msgid "Restrict coupons by country"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:35
+msgid "Create and offer sign-up discount coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:37
+msgid "Customizable countdown sales banner"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:39
+msgid "Import and export coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:40
+msgid "Coupon embeds"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:41
+msgid "Allow coupon combinations"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:47
+msgid "URL Coupons for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:51
+msgid "Generate custom coupon URLs"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:52
+msgid "Set up a redirect page"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:53
+msgid "Automatically add products"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:54
+msgid "Create QR code coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:60
+msgid "WooCommerce Product Recommendations"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:64
+msgid "Automatically generate suggestions based on order history"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:65
+msgid "Display recommended products on the product pages"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:66
+msgid "Quick setup page to add & edit recommendations"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:67
+msgid "Multiple product recommendation layouts"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:68
+msgid "Set up discounts on the recommended product bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:69
+msgid "Manually create a bought-together list"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:70
+msgid "Use upsells, cross-sells, & related products as frequently bought products"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:71
+msgid "Customize the title, button, and label texts"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:72
+msgid "Customize the display of the recommended products"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:78
+msgid "WooCommerce Coupon Generator"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:82
+msgid "Bulk generate WooCommerce coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:83
+msgid "Bulk export WooCommerce coupons to CSV"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:84
+msgid "Add usage restrictions to coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:90
+msgid "WooCommerce Gift Cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:94
+msgid "Create unlimited gift cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:95
+msgid "Email gift cards to customers"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:96
+msgid "Provide refunds to store credit"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:97
+msgid "20+ predefined gift card templates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:98
+msgid "Category wise template listing"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:99
+msgid "Add custom templates for gift cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:100
+msgid "Generate gift cards based on order status"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:101
+msgid "Manage user credit balance"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:102
+msgid "Fixed and custom gift card amounts"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:103
+msgid "Add usage restrictions for gift cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:112
+msgid "ECommerce Marketing Automation App"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:114
+msgid "Create signup forms, popups, and automated email campaigns with pre-built workflow templates to capture leads, recover abandoned carts, and grow sales."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:122
+msgid "Promotion Bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:123
+msgid "WooCommerce Promotion Bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:125
+msgid "Make powerful promotional campaigns with our WooCommerce promotion bundle. Create coupon promotions, set up gift cards, and implement popular product recommendation strategies."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:127
+msgid "Smart Coupons"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:128
+msgid "Product recommendation"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:129
+msgid "Gift cards"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:133
+#: admin/views/admin-settings-other-solutions.php:438
+msgid "Save up to 30% off"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:138
+msgid "Privacy Compliance"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:139
+msgid "Ensure compliance with major cookie laws, including, GDPR, CCPA, LGPD, CNIL, and more"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:142
+msgid "GDPR Cookie Consent Plugin (CCPA Ready)"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:146
+msgid "This Google-certified CMP lets you create a customizable cookie banner, manage user consent, and ensure global privacy compliance with automatic script blocking."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:154
+msgid "EU Order Withdrawal Button Plugin for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:158
+msgid "Add \"Request Withdrawal\" button to WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:159
+msgid "Supports guest withdrawal option"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:160
+msgid "Two-step confirmation to prevent errors"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:161
+msgid "Full or partial order withdrawal support"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:162
+msgid "Dedicated admin dashboard for all requests"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:163
+msgid "Send email confirmation to customers"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:175
+msgid "Data Import & Export"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:176
+msgid "The best-in-class import, export, and migration solutions for your WooCommerce data"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:185
+msgid "Order, Coupon, Subscription Export Import"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:189
+#: admin/views/admin-settings-other-solutions.php:210
+#: admin/views/admin-settings-other-solutions.php:250
+msgid "Supports Excel, XML, CSV, and TSV file formats"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:191
+msgid "Email customers on order status change"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:192
+msgid "Create users on order import"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:193
+msgid "Filter export by products, order status, email, date, etc"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:194
+#: admin/views/admin-settings-other-solutions.php:216
+#: admin/views/admin-settings-other-solutions.php:252
+msgid "Import from URL, Google Sheets, FTP/SFTP"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:196
+#: admin/views/admin-settings-other-solutions.php:218
+#: admin/views/admin-settings-other-solutions.php:255
+msgid "Advanced filters and customizations for import & export"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:197
+#: admin/views/admin-settings-other-solutions.php:219
+msgid "Add & update data while importing"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:198
+#: admin/views/admin-settings-other-solutions.php:220
+#: admin/views/admin-settings-other-solutions.php:257
+msgid "Maintains action history and debug logs"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:199
+#: admin/views/admin-settings-other-solutions.php:221
+#: admin/views/admin-settings-other-solutions.php:258
+msgid "Compatible with major 3rd-party plugins"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:206
+msgid "User Import Export Plugin"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:211
+msgid "Schedule automated import and export"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:212
+#: admin/views/market.php:155
+msgid "Customize and send emails to new users on import"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:213
+msgid "Retain user passwords on import/export"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:214
+#: product-import-export-for-woo.php:262
+msgid "Export and import custom fields and third-party plugin fields"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:215
+msgid "Filter by user role, email, date, etc"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:228
+msgid "Product Feed & Sync Manager for WooCommerce"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:232
+msgid "Generate optimized product feeds for 20+ sales channels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:233
+msgid "Map WooCommerce product details and categories"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:234
+msgid "Create feeds for all Google shopping platforms"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:235
+msgid "Sync WooCommerce products with Facebook Catalog"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:236
+msgid "Tailor your product feed with filters"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:237
+msgid "Track and manage feed updates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:238
+msgid "Keep your product feeds up-to-date"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:249
+msgid "Import/export Products, Orders, Subscriptions, Coupons, Customers, WordPress Users, Categories & Tags, Reviews"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:254
+msgid "Import & export custom fields and values"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:256
+msgid "Add and update data while importing"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:269
+msgid "Accounting & Invoicing"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:270
+msgid "Automatically generate professional WooCommerce invoices and documents for all your orders"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:273
+msgid "PDF Invoices, Packing Slips, & Credit Notes"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:277
+msgid "Automatically generate, customize, and manage professional WooCommerce PDF invoices, packing slips, and credit notes with advanced automation and tax compliance features."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:284
+msgid "Shipping Labels, Dispatch Labels, & Delivery Notes"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:288
+msgid "Create delivery notes, shipping & dispatch labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:289
+msgid "Enable customers to print the documents from order emails"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:290
+msgid "Customize shipping label size"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:291
+msgid "Add multiple shipping labels on one page"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:292
+#: admin/views/admin-settings-other-solutions.php:310
+msgid "Show product variation data"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:293
+msgid "Add extra product & order data fields"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:294
+msgid "Pre-built layouts & customizable templates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:295
+msgid "Group products by 'Category'"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:296
+msgid "Sort products based on Name or SKU"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:297
+#: admin/views/admin-settings-other-solutions.php:314
+#: admin/views/admin-settings-other-solutions.php:344
+#: admin/views/admin-settings-other-solutions.php:363
+msgid "Multilingual support"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:303
+msgid "WooCommerce Picklists plugin"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:307
+msgid "Bulk print picklists from the admin order page"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:308
+msgid "Automatically email picklists based on order status"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:309
+msgid "Create or customize picklist templates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:311
+msgid "Group products in picklist by order/category"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:312
+msgid "Add product meta fields & attributes"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:313
+msgid "Exclude virtual products from picklists"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:320
+msgid "Customizer for WooCommerce PDF Invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:324
+msgid "Drag-and-drop easy customization"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:325
+msgid "Advanced visual and code editor"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:326
+#: admin/views/admin-settings-other-solutions.php:356
+msgid "Easy invoice layout customization"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:327
+msgid "Customize individual elements using block editors"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:328
+msgid "View live preview of customization"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:329
+msgid "Change color, text, background, border & more"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:335
+msgid "WooCommerce Address Labels plugin"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:339
+msgid "Generate 'Shipping Address', 'Billing Address', 'From Address', and 'Return Address' labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:340
+msgid "Customize label sizes"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:341
+msgid "Bulk print address labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:342
+msgid "Offers built-in label templates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:343
+msgid "Change address label layout"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:350
+#: admin/views/admin-settings-other-solutions.php:434
+msgid "Proforma Invoice"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:354
+msgid "Create proforma invoices automatically"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:355
+msgid "Pre-built proforma invoice layouts"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:357
+msgid "Attach proforma invoice PDF to order emails"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:358
+msgid "Allow customers to print invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:359
+msgid "Set custom proforma invoice number"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:360
+msgid "Add additional product & order data fields"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:361
+msgid "Attach special notes with proforma invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:362
+msgid "Attach transport & sales terms"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:369
+msgid "QR Code Add-on for WooCommerce PDF Invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:373
+msgid "Assign QR codes to all generated invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:374
+msgid "Create QR code that reads order or invoice number"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:375
+msgid "Add custom data to invoices"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:376
+msgid "Compatible with WooCommerce PDF Invoice, Packing Slip & Credit Note (Premium)"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:377
+msgid "Compatible with WooCommerce PDF Invoices, Packing Slips, Delivery Notes, and Shipping Labels (Free)"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:383
+msgid "WooCommerce Request a Quote"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:387
+msgid "Add quote button to the product & shop pages"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:388
+msgid "Enable quotation request for selected products"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:389
+msgid "Automatically send quotes to users"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:390
+msgid "Disable guest users from asking for quote"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:391
+msgid "Hide prices and 'add to cart' button"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:392
+msgid "Automatic email alerts for admin & users"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:393
+msgid "Easy button and form customization"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:394
+msgid "Set quote expiry period"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:395
+msgid "Limit spams with reCAPTCHA"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:402
+msgid "Sequential Order Numbers"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:406
+msgid "Auto reset sequence per month/year etc"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:407
+msgid "Add a custom suffix for order numbers"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:408
+msgid "Date suffix in order numbers"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:409
+msgid "Custom sequence for free orders"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:410
+msgid "Increment sequence in custom series"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:411
+msgid "More order number templates"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:422
+msgid "Invoice Bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:423
+msgid "All in one Invoice bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:425
+msgid "A complete suite of invoices and shipping documents bundle to create and print PDF invoices, packing slips, shipping and delivery documents in WooCommerce."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:427
+msgid "Invoice"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:428
+msgid "Packing Slip"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:429
+msgid "Address Labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:430
+msgid "Dispatch Labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:431
+msgid "Shipping Labels"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:432
+msgid "Delivery Notes"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:433
+msgid "Picklists"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:506
+msgid "You're all set!"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:507
+msgid "All recommended plugins are already active on your store."
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:550
+msgid "30 Day No Risk Money Back Guarantee"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:555
+msgid "99% Satisfaction Rating"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:556
+msgid "Fast Support with 99% Satisfaction Rating"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:589
+#: admin/views/admin-settings-other-solutions.php:700
+msgid "5 out of 5 stars"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:615
+#: admin/views/admin-settings-other-solutions.php:771
+msgid "Get premium"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:748
+msgid "Show More"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:749
+msgid "Show Less"
+msgstr ""
+
+#. translators: 1: strikethrough original price, 2: bold sale price, 3: green savings text
+#: admin/views/admin-settings-other-solutions.php:827
+msgid "Total: <s>%1$s</s> <strong>%2$s</strong> <span class=\"wt-piew-os-savings\">(%3$s)</span>"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:844
+msgid "View Bundle"
+msgstr ""
+
+#: admin/views/admin-settings-other-solutions.php:903
+msgid "Try Now"
+msgstr ""
+
+#: admin/views/admin-settings-pre-saved-templates.php:40
+msgid "Import export pre-saved templates"
+msgstr ""
+
+#: admin/views/admin-settings-pre-saved-templates.php:46
+msgid "Name"
+msgstr ""
+
+#: admin/views/admin-settings-pre-saved-templates.php:48
+msgid "Type"
+msgstr ""
+
+#: admin/views/admin-settings-pre-saved-templates.php:49
+msgid "Action"
+msgstr ""
+
+#: admin/views/admin-settings-save-button.php:6
+msgid "Update Settings"
+msgstr ""
+
+#: admin/views/market.php:18
+msgid "Order, Coupon, Subscription Import Export for WooCommerce"
+msgstr ""
+
+#: admin/views/market.php:43
+msgid "Export and import subscriptions"
+msgstr ""
+
+#: admin/views/market.php:45
+#: admin/views/market.php:100
+#: admin/views/market.php:154
+msgid "Import & export in Excel, XML, CSV, and TSV formats"
+msgstr ""
+
+#: admin/views/market.php:48
+#: admin/views/market.php:103
+#: admin/views/market.php:158
+msgid "Export and Import custom fields and third - party plugins fields"
+msgstr ""
+
+#: admin/views/market.php:56
+#: admin/views/market.php:111
+#: admin/views/market.php:166
+#: admin/views/market.php:208
+msgid "Check out plugin"
+msgstr ""
+
+#: admin/views/market.php:72
+msgid "Product Import Export Plugin"
+msgstr ""
+
+#: admin/views/market.php:73
+msgid "for WooCommerce"
+msgstr ""
+
+#: admin/views/market.php:98
+msgid "Export and import variable, subscription and custom product types"
+msgstr ""
+
+#: admin/views/market.php:125
+msgid "WordPress Users &"
+msgstr ""
+
+#: admin/views/market.php:127
+msgid "Import Export"
+msgstr ""
+
+#: admin/views/market.php:176
+msgid "You may also Like"
+msgstr ""
+
+#: admin/views/market.php:203
+msgid "An All-In-One Plugin Bundle for Importing and Exporting All Your WooCommerce Store Data"
+msgstr ""
+
+#: admin/views/market.php:211
+msgid "Try with Confidence"
+msgstr ""
+
+#: admin/views/market.php:216
+msgid "100% No Risk Money Back Guarantee"
+msgstr ""
+
+#: admin/views/market.php:220
+msgid "Fast and Priority Support with 99% Satisfaction Rating"
+msgstr ""
+
+#: admin/views/top_upgrade_header.php:73
+msgid "You’re using our free version. To unlock more features,"
+msgstr ""
+
+#: admin/views/top_upgrade_header.php:73
+msgid "upgrade to pro "
+msgstr ""
+
+#: admin/views/_save_template_popup.php:13
+msgid "Save as"
+msgstr ""
+
+#: admin/views/_save_template_popup.php:21
+msgid "Please enter name"
+msgstr ""
+
+#: admin/views/_save_template_popup.php:25
+msgid "Template name"
+msgstr ""
+
+#: class-wt-product-review-request.php:354
+msgid "Nope, maybe later"
+msgstr ""
+
+#: class-wt-product-review-request.php:355
+msgid "I already did"
+msgstr ""
+
+#: class-wt-product-review-request.php:356
+msgid "Remind me later"
+msgstr ""
+
+#: class-wt-product-review-request.php:357
+msgid "Not interested"
+msgstr ""
+
+#: class-wt-product-review-request.php:358
+msgid "Review now"
+msgstr ""
+
+#. translators: 1: bold open, 2: bold close
+#: class-wt-product-review-request.php:362
+msgid "Hey, we at %1$sWebToffee%2$s would like to thank you for using our plugin. We would really appreciate if you could take a moment to drop a quick review that will inspire us to keep going."
+msgstr ""
+
+#: class-wt-product-review-request.php:368
+msgid "If you found the plugin helpful, please leave us a quick "
+msgstr ""
+
+#: class-wt-product-review-request.php:372
+msgid "5-star review"
+msgstr ""
+
+#: class-wt-product-review-request.php:376
+msgid ". It would mean the world to us."
+msgstr ""
+
+#: class-wt-product-review-request.php:384
+msgid "Updating products easily with WebToffee Import Export?"
+msgstr ""
+
+#: class-wt-product-review-request.php:385
+#: class-wt-product-review-request.php:394
+#: class-wt-product-review-request.php:404
+msgid "Hi there,"
+msgstr ""
+
+#: class-wt-product-review-request.php:385
+msgid "we are thrilled to see you making great use of our WooCommerce product import export plugin. It's our mission to make data management as efficient as possible for you."
+msgstr ""
+
+#: class-wt-product-review-request.php:389
+msgid "Review Product Import Export"
+msgstr ""
+
+#: class-wt-product-review-request.php:393
+msgid "Handling user data smoothly with WebToffee Import Export?"
+msgstr ""
+
+#: class-wt-product-review-request.php:394
+msgid "we are thrilled to see you making great use of our WooCommerce user import export plugin. It's our mission to make data management as efficient as possible for you."
+msgstr ""
+
+#: class-wt-product-review-request.php:398
+msgid "Review User Import Export"
+msgstr ""
+
+#: class-wt-product-review-request.php:403
+msgid "Managing orders smoothly with WebToffee Import Export?"
+msgstr ""
+
+#: class-wt-product-review-request.php:404
+msgid "we are thrilled to see you making great use of our WooCommerce order import export plugin. It's our mission to make data management as efficient as possible for you."
+msgstr ""
+
+#: class-wt-product-review-request.php:408
+msgid "Review Order Import Export"
+msgstr ""
+
+#: class-wt-product-review-request.php:1361
+msgid "You can now export WooCommerce order"
+msgstr ""
+
+#: class-wt-product-review-request.php:1361
+msgid "data with custom filters, custom metadata, FTP export, and scheduling options."
+msgstr ""
+
+#: class-wt-product-review-request.php:1361
+msgid "Bulk edit or update orders using CSV, XML, Excel, or TSV files in one go."
+msgstr ""
+
+#: class-wt-product-review-request.php:1372
+msgid "You can easily bulk export your customers"
+msgstr ""
+
+#: class-wt-product-review-request.php:1372
+msgid "data to CSV, XML, Excel, or TSV files in just a few clicks."
+msgstr ""
+
+#: class-wt-product-review-request.php:1372
+msgid "Export custom user metadata of third-party plugins seamlessly."
+msgstr ""
+
+#: class-wt-product-review-request.php:1383
+msgid "Get your store products"
+msgstr ""
+
+#: class-wt-product-review-request.php:1383
+msgid "bulk exported for hassle-free migration, inventory management, and bookkeeping."
+msgstr ""
+
+#: class-wt-product-review-request.php:1383
+msgid "Import/export WooCommerce products with reviews, images, and custom metadata."
+msgstr ""
+
+#: class-wt-product-review-request.php:1394
+msgid "Get your subscription orders exported to a"
+msgstr ""
+
+#: class-wt-product-review-request.php:1394
+msgid "CSV, XML, Excel, or TSV file."
+msgstr ""
+
+#: class-wt-product-review-request.php:1394
+msgid "Featuring scheduled exports, advanced filters, custom metadata, and more."
+msgstr ""
+
+#: class-wt-product-review-request.php:1414
+msgid "Check out plugin ➔"
+msgstr ""
+
+#: class-wt-product-review-request.php:1453
+msgid "There's a faster way to manage orders. Import, export, and update orders in bulk using CSV, XML, or Excel with the Order Import Export Plugin."
+msgstr ""
+
+#: class-wt-product-review-request.php:1463
+msgid "You can now easily import and export WooCommerce products with images using CSV, XML, or Excel files."
+msgstr ""
+
+#: class-wt-product-review-request.php:1473
+msgid "Easily import and export WordPress users & WooCommerce customers to CSV, XML, or Excel for seamless data management."
+msgstr ""
+
+#: class-wt-product-review-request.php:1519
+msgid "Check out plugin →"
+msgstr ""
+
+#. translators: %1$s: Post type title, %2$s: Plugin name, %3$s: Minimum version, %4$s: Plugin name
+#: helpers/class-wt-common-helper.php:74
+msgid "The %1$s requires a minimum version of %2$s %3$s. Please upgrade the %4$s accordingly."
+msgstr ""
+
+#. translators: 1: The rating, 2: The number of ratings.
+#: helpers/class-wt-common-helper.php:511
+msgid "%1$s rating based on %2$s rating"
+msgid_plural "%1$s rating based on %2$s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: The rating.
+#: helpers/class-wt-common-helper.php:515
+msgid "%s rating"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:21
+msgid "Comma"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:22
+msgid "Semicolon"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:23
+msgid "Tab"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:24
+msgid "Space"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:25
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:349
+msgid "Other"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:256
+msgid "Refresh the step"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:261
+msgid "Console form data"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:272
+msgid "For debugging process"
+msgstr ""
+
+#: helpers/class-wt-import-export-helper.php:273
+msgid "Debug panel"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:25
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:36
+msgid "We do not collect any personal data when you submit this form. It's your feedback that we value."
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:37
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:55
+msgid "I rather wouldn't say"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:58
+msgid "Get support"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:59
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:163
+msgid "Deactivate and leave a review"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:167
+msgid "Please go through the"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:167
+msgid "documentation"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:167
+msgid "or contact us via"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:167
+msgid "support"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:210
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:301
+msgid "Used it successfully. Don't need anymore."
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:303
+msgid "Have used it successfully and aint in need of it anymore"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:307
+msgid "Temporary deactivation"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:309
+msgid "Temporary de-activation. Will re-activate later."
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:313
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:315
+msgid "Would you like us to assist you?"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:319
+msgid "I found a better plugin"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:321
+msgid "Which plugin?"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:325
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:327
+msgid "Could you tell us more about that feature?"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:331
+msgid "The plugin is not working"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:333
+msgid "Could you tell us a bit more whats not working?"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:337
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:339
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:351
+msgid "Could you tell us a bit more?"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:343
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: includes/class-wf-prodimpexp-plugin-uninstall-feedback.php:345
+msgid "What did you expect?"
+msgstr ""
+
+#. translators: %s: Plugin title.
+#: includes/class-wt-non-apache-info.php:44
+msgid "The %s plugin uploads the imported file into <b>wp-content/webtoffee_import</b> folder. Please ensure that public access restrictions are set in your server for this folder."
+msgstr ""
+
+#: includes/class-wt-non-apache-info.php:51
+msgid "Incase of Nginx server, copy the below code into your server config file to restrict public access to the wp-content folder or contact the server team to assist accordingly."
+msgstr ""
+
+#. translators: %1$s is the post type (e.g., Product), %2$s is the WooCommerce installation URL
+#: product-import-export-for-woo.php:95
+msgid "The <b>WooCommerce</b> plugin must be active for <b>%1$s CSV Import Export (BASIC)</b> plugin to work effectively. Please <a href=\"%2$s\" target=\"_blank\">install & activate WooCommerce</a>."
+msgstr ""
+
+#: product-import-export-for-woo.php:170
+msgid "Premium Upgrade"
+msgstr ""
+
+#: product-import-export-for-woo.php:238
+msgid "Sample Product CSV"
+msgstr ""
+
+#: product-import-export-for-woo.php:239
+msgid "Familiarize yourself with the sample CSV."
+msgstr ""
+
+#: product-import-export-for-woo.php:241
+msgid "Get Product CSV"
+msgstr ""
+
+#: product-import-export-for-woo.php:258
+msgid "Import and export in XLS and XLSX formats"
+msgstr ""
+
+#: product-import-export-for-woo.php:258
+msgid "New"
+msgstr ""
+
+#: product-import-export-for-woo.php:259
+msgid "All free version features"
+msgstr ""
+
+#: product-import-export-for-woo.php:260
+msgid "XML file type support"
+msgstr ""
+
+#: product-import-export-for-woo.php:261
+msgid "Export and import variable products, subscription products and custom product types"
+msgstr ""
+
+#: product-import-export-for-woo.php:263
+msgid "Run scheduled automatic import and export"
+msgstr ""
+
+#: product-import-export-for-woo.php:264
+msgid "Import from URL, FTP/SFTP"
+msgstr ""
+
+#: product-import-export-for-woo.php:266
+msgid "Option to export product images as a separate zip file"
+msgstr ""
+
+#: product-import-export-for-woo.php:267
+msgid "Tested compatibility with major third-party plugins"
+msgstr ""
+
+#: product-import-export-for-woo.php:270
+msgid "UPGRADE TO PREMIUM"
+msgstr ""
+
+#: product-import-export-for-woo.php:272
+msgid "Get more import export addons >>"
+msgstr ""

@@ -1,0 +1,11 @@
+2026-09-17T01:31:08+00:00 CRITICAL PHP fatal error: Uncaught Error: Class "CTXFeed\V8\CustomFields\CustomFieldHelper" not found in /home/u2319598/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/V8/CustomFields/CustomFieldInstaller.php:65
+Stack trace:
+#0 /home/u2319598/public_html/wp-includes/class-wp-hook.php(341): CTXFeed\V8\CustomFields\CustomFieldInstaller->seed_defaults()
+#1 /home/u2319598/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters()
+#2 /home/u2319598/public_html/wp-includes/plugin.php(522): WP_Hook->do_action()
+#3 /home/u2319598/public_html/wp-settings.php(742): do_action()
+#4 /home/u2319598/public_html/wp-config.php(110): require_once('/home/u2319598/...')
+#5 /home/u2319598/public_html/wp-load.php(50): require_once('/home/u2319598/...')
+#6 /home/u2319598/public_html/wp-cron.php(46): require_once('/home/u2319598/...')
+#7 {main}
+  thrown in /home/u2319598/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/V8/CustomFields/CustomFieldInstaller.php:65 CONTEXT: {"file":"/home/u2319598/public_html/wp-content/plugins/webappick-product-feed-for-woocommerce/V8/CustomFields/CustomFieldInstaller.php","line":65,"type":1}

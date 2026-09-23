@@ -1,0 +1,76 @@
+.customize-control-kirki-box-shadow .kirki-input-container {
+  margin-bottom: 12px; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: minmax(0, 1fr) 12px minmax(0, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px 12px; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-field label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 12px;
+  line-height: 1.3;
+  font-weight: 600; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-field select,
+.customize-control-kirki-box-shadow .kirki-box-shadow-field input[type="number"] {
+  width: 100%; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-number {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-number input[type="number"] {
+  min-height: 30px;
+  -webkit-border-start-end-radius: 0;
+          border-start-end-radius: 0;
+  -webkit-border-end-end-radius: 0;
+          border-end-end-radius: 0; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-number span {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 30px;
+  padding: 0 8px;
+  border: 1px solid #8c8f94;
+  border-left: 0;
+  -webkit-border-start-end-radius: 3px;
+          border-start-end-radius: 3px;
+  -webkit-border-end-end-radius: 3px;
+          border-end-end-radius: 3px;
+  background: #f6f7f7;
+  color: #646970;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-switch {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 8px; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-switch input[type="checkbox"] {
+  width: 16px;
+  min-width: 16px;
+  height: 16px;
+  margin: 0;
+  padding: 0;
+  line-height: 1; }
+.customize-control-kirki-box-shadow .kirki-box-shadow-switch label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 8px;
+  margin: 0; }

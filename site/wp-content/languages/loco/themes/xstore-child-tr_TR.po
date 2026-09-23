@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xstore-child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-27 23:24+0000\n"
+"PO-Revision-Date: 2025-06-27 23:25+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.2.28\n"
+"X-Domain: xstore-child"
+
+#. Author of the theme
+msgid "8theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.8theme.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://xstore.8theme.com"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"XStore is a multi-purpose theme that offers the ultimate WordPress and "
+"WooCommerce synergy, providing a comprehensive, all-in-one solution."
+msgstr ""
+
+#. Name of the theme
+msgid "xstore-child"
+msgstr ""

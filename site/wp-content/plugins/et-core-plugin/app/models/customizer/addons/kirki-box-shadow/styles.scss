@@ -1,0 +1,74 @@
+.customize-control-kirki-box-shadow {
+	.kirki-input-container {
+		margin-bottom: 12px;
+	}
+
+	.kirki-box-shadow-grid {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 10px 12px;
+	}
+
+	.kirki-box-shadow-field {
+		label {
+			display: block;
+			margin-bottom: 6px;
+			font-size: 12px;
+			line-height: 1.3;
+			font-weight: 600;
+		}
+
+		select,
+		input[type="number"] {
+			width: 100%;
+		}
+	}
+
+	.kirki-box-shadow-number {
+		display: flex;
+		align-items: center;
+
+		input[type="number"] {
+			min-height: 30px;
+			border-start-end-radius: 0;
+			border-end-end-radius: 0;
+		}
+
+		span {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			min-height: 30px;
+			padding: 0 8px;
+			border: 1px solid #8c8f94;
+			border-left: 0;
+			border-start-end-radius: 3px;
+			border-end-end-radius: 3px;
+			background: #f6f7f7;
+			color: #646970;
+			box-sizing: border-box;
+		}
+	}
+
+	.kirki-box-shadow-switch {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+
+		input[type="checkbox"] {
+			width: 16px;
+			min-width: 16px;
+			height: 16px;
+			margin: 0;
+			padding: 0;
+			line-height: 1;
+		}
+
+		label {
+			display: flex;
+			align-items: center;
+			gap: 8px;
+			margin: 0;
+		}
+	}
+}

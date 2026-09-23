@@ -1,0 +1,510 @@
+# Translation of Plugins - Limit Login Attempts Reloaded &#8211; Login Security, Brute Force Protection, Firewall - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded &#8211; Login Security, Brute Force Protection, Firewall - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-19 17:03:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded &#8211; Login Security, Brute Force Protection, Firewall - Stable (latest release)\n"
+
+#: views/tab-settings.php:533
+msgid "GDPR message"
+msgstr "GDPR iletisi"
+
+#: views/chart-circle-failed-attempts-today.php:102
+#: views/chart-failed-attempts.php:36 views/chart-failed-attempts.php:121
+#: views/chart-failed-attempts.php:131
+msgid "Failed Login Attempts"
+msgstr "Başarısız giriş denemeleri"
+
+#: views/chart-circle-failed-attempts-today.php:93
+msgid "Failed Login Attempts Today"
+msgstr "Bugünkü başarısız giriş denemeleri"
+
+#: core/LimitLoginAttempts.php:842 views/options-page.php:155
+#: views/tab-dashboard.php:128
+msgid "Help"
+msgstr "Yardım"
+
+#: views/tab-dashboard.php:113
+msgid "Tools"
+msgstr "Araçlar"
+
+#: views/tab-dashboard.php:67 views/tab-settings.php:96
+msgid "Learn More"
+msgstr "Daha fazla bilgi"
+
+#: views/onboarding-popup.php:41
+msgid "Notifications"
+msgstr "Bildirimler"
+
+#: core/LimitLoginAttempts.php:453 views/tab-dashboard.php:97
+#: views/tab-dashboard.php:253
+msgid "Upgrade to Premium"
+msgstr "Premium'a Yükselt"
+
+#: views/tab-dashboard.php:132
+msgid "Find the documentation and help you need."
+msgstr "İhtiyaç duyduğunuz dokümanı ve yardımı bulun."
+
+#: views/tab-dashboard.php:143
+msgid "Global Options"
+msgstr "Genel seçenekler"
+
+#: views/tab-dashboard.php:83
+msgid "Premium Protection Disabled"
+msgstr "Premium koruma devre dışı"
+
+#: views/tab-dashboard.php:147
+msgid "Many options such as notifications, alerts, premium status, and more."
+msgstr "Bildirimler, uyarılar, premium durum ve daha fazlası gibi birçok seçenek."
+
+#: views/tab-dashboard.php:117
+msgid "View lockouts logs, block or whitelist usernames or IPs, and more."
+msgstr "Kilitleme günlüklerini görüntüleyin, kullanıcı adlarını veya IP'leri engelleyin veya beyaz listeye ekleyin ve daha fazlasını yapın."
+
+#: views/tab-logs-local.php:88
+msgid "Safelist"
+msgstr "Güvenli listesi"
+
+#: resources/compare-plans-data.php:72
+msgid "Performance Optimizer"
+msgstr "Performans iyileştirici"
+
+#: views/chart-failed-attempts.php:44 views/chart-failed-attempts.php:147
+#: views/chart-failed-attempts.php:244
+msgid "Requests"
+msgstr "İstekler"
+
+#: views/app-widgets/active-lockouts.php:8
+msgid "Active Lockouts"
+msgstr "Etkin Kilitlemeler"
+
+#: views/tab-settings.php:319 views/tab-settings.php:324
+msgid "Setup Code"
+msgstr "Kurulum Kodu"
+
+#: views/chart-circle-failed-attempts-today.php:45
+#: views/chart-circle-failed-attempts-today.php:79
+msgid "%d failed login attempt "
+msgid_plural "%d failed login attempts "
+msgstr[0] "%d başarısız giriş denemesi"
+msgstr[1] "%d başarısız giriş denemesi"
+
+#: resources/compare-plans-data.php:136 views/tab-help.php:173
+msgid "Premium Support"
+msgstr "Premium Destek"
+
+#: core/LimitLoginAttempts.php:2300
+msgid "Yes, turn on email notifications"
+msgstr "Evet, e-posta bildirimlerini aç"
+
+#: core/LimitLoginAttempts.php:2302
+msgid "Don't show this message again"
+msgstr "Bu mesajı bir daha gösterme"
+
+#: core/LimitLoginAttempts.php:2301
+msgid "Remind me a month from now"
+msgstr "Bana bundan bir ay sonra hatırlat"
+
+#: views/options-page.php:164
+msgid "Failover"
+msgstr "Yük devretme"
+
+#: core/LimitLoginAttempts.php:832 views/options-page.php:145
+msgid "Logs"
+msgstr "Kayıtlar"
+
+#: views/tab-settings.php:353
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+#: views/tab-settings.php:341
+msgid "Submit"
+msgstr "Gönder"
+
+#: views/tab-settings.php:65
+msgid "App Settings"
+msgstr "Uygulama Ayarları"
+
+#: views/tab-settings.php:144
+msgid "Local App"
+msgstr "Yerel Uygulama"
+
+#: views/tab-settings.php:282 views/tab-settings.php:450
+msgid "Get premium support"
+msgstr "Premium destek al"
+
+#: views/tab-settings.php:108
+msgid "Active App"
+msgstr "Etkin Uygulamalar"
+
+#: views/app-widgets/acl-rules.php:59
+msgid "IP Access Rules"
+msgstr "IP Erişim Kuralları"
+
+#: views/app-widgets/acl-rules.php:10
+msgid "Login Access Rules"
+msgstr "Giriş Erişim Kuralları"
+
+#: views/app-widgets/event-log.php:14
+msgid "Event Log"
+msgstr "Etkinlik Kaydı"
+
+#: views/app-widgets/acl-rules.php:44 views/app-widgets/acl-rules.php:93
+#: views/app-widgets/country-access-rules.php:26
+msgid "Add"
+msgstr "Ekle"
+
+#: views/app-widgets/acl-rules.php:38 views/app-widgets/acl-rules.php:87
+msgid "Allow"
+msgstr "İzin ver"
+
+#: views/app-widgets/acl-rules.php:37 views/app-widgets/acl-rules.php:86
+#: views/app-widgets/country-access-rules.php:55
+msgid "Deny"
+msgstr "Reddet"
+
+#: views/app-widgets/acl-rules.php:26 views/app-widgets/acl-rules.php:75
+msgid "Action"
+msgstr "İşlem"
+
+#: views/app-widgets/active-lockouts.php:24
+msgid "Count"
+msgstr "Toplam"
+
+#: views/app-widgets/event-log.php:46
+msgid "Actions"
+msgstr "İşlemler"
+
+#: views/app-widgets/acl-rules.php:24 views/app-widgets/acl-rules.php:33
+#: views/app-widgets/acl-rules.php:73 views/app-widgets/acl-rules.php:82
+#: views/app-widgets/event-log.php:43
+msgid "Pattern"
+msgstr "Kalıp"
+
+#: views/app-widgets/event-log.php:42
+msgid "Reason"
+msgstr "Gerekçe"
+
+#: views/app-widgets/acl-rules.php:25 views/app-widgets/acl-rules.php:74
+#: views/app-widgets/event-log.php:41
+msgid "Rule"
+msgstr "Kural"
+
+#: views/app-widgets/active-lockouts.php:23 views/app-widgets/event-log.php:40
+#: views/app-widgets/login-attempts.php:50
+msgid "Login"
+msgstr "Giriş"
+
+#: views/app-widgets/active-lockouts.php:22 views/app-widgets/event-log.php:38
+#: views/app-widgets/login-attempts.php:51
+msgid "IP"
+msgstr "IP"
+
+#: views/app-widgets/event-log.php:37 views/app-widgets/login-attempts.php:49
+msgid "Time"
+msgstr "Zaman"
+
+#: core/Ajax.php:779
+msgid "No rules yet."
+msgstr "Henüz kural yok."
+
+#: views/app-widgets/acl-rules.php:39 views/app-widgets/acl-rules.php:88
+msgid "Pass"
+msgstr "Geçer"
+
+#: views/app-widgets/event-log.php:44
+msgid "Attempts Left"
+msgstr "Kalan denemeler"
+
+#: core/Ajax.php:359 core/Ajax.php:662
+msgid "No events yet."
+msgstr "Henüz etkinlik yok."
+
+#: core/Ajax.php:175
+msgid "Please specify the Setup Code"
+msgstr "Lütfen Kurulum Kodunu belirtin"
+
+#: views/tab-settings.php:289 views/tab-settings.php:456
+msgid "Run auto backups of access control lists, lockouts and logs"
+msgstr "Erişim kontrol listelerinin, kilitlenmelerin ve günlüklerin otomatik yedeklemelerini çalıştırın"
+
+#: core/Ajax.php:711
+msgid "No lockouts yet."
+msgstr "Henüz kilitleme yok."
+
+#: views/app-widgets/event-log.php:45
+msgid "Lockout Duration"
+msgstr "Kilitleme Süresi"
+
+#: core/CloudApp.php:157
+msgid "The app has been successfully imported."
+msgstr "Uygulama başarıyla içe aktarıldı."
+
+#. Author URI of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "https://www.limitloginattempts.com/"
+msgstr "https://www.limitloginattempts.com/"
+
+#: views/tab-settings.php:250 views/tab-settings.php:406
+msgid "Why Use Our Premium Cloud App?"
+msgstr "Neden Premium Bulut Uygulamamız Kullanılmalı?"
+
+#: core/CloudApp.php:132
+msgid "The endpoint is not responding. Please contact your app provider to settle that."
+msgstr "Uç nokta yanıt vermiyor. Lütfen bunu çözmek için uygulama sağlayıcınızla iletişime geçin."
+
+#: views/app-widgets/active-lockouts.php:25
+msgid "Expires in (minutes)"
+msgstr "Sona eriyor (dakika)"
+
+#: views/tab-settings.php:256 views/tab-settings.php:426
+msgid "Absorb site load caused by attacks"
+msgstr "Saldırıların neden olduğu site yükünü azaltın"
+
+#: core/LimitLoginAttempts.php:435 core/LimitLoginAttempts.php:816
+#: views/options-page.php:129
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: views/tab-logs-local.php:142 views/tab-settings.php:475
+#: views/tab-settings.php:816
+msgid "Save Settings"
+msgstr "Ayarları Kaydet "
+
+#: views/tab-settings.php:481
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: core/LimitLoginAttempts.php:1975 core/LimitLoginAttempts.php:2049
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: core/LimitLoginAttempts.php:2209
+msgid "Leave a review"
+msgstr "Bir değerlendirme bırakın"
+
+#: core/LimitLoginAttempts.php:2208
+msgid "Maybe later"
+msgstr "Belki daha sonra"
+
+#: core/LimitLoginAttempts.php:2207
+msgid "Don't show again"
+msgstr "Bir daha gösterme"
+
+#: core/LimitLoginAttempts.php:2202
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "Hey <strong>Limit Login Attempts Reloaded</strong> kullanıcısı!"
+
+#: views/tab-debug.php:65
+msgid "Copy the contents of the window and provide to support."
+msgstr "Pencerenin içeriğini kopyalayın ve destek sağlayın."
+
+#: core/LimitLoginAttempts.php:837 views/options-page.php:151
+msgid "Debug"
+msgstr "Hata ayıklama"
+
+#: core/LimitLoginAttempts.php:436 core/LimitLoginAttempts.php:821
+#: views/options-page.php:133
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: views/tab-settings.php:226
+msgid "Trusted IP Origins"
+msgstr "Güvenilir IP Çıkışları"
+
+#: views/tab-settings.php:594
+msgid "after"
+msgstr "sonra"
+
+#: views/tab-settings.php:567 views/tab-settings.php:591
+msgid "Email to"
+msgstr "E-posta"
+
+#: core/LimitLoginAttempts.php:1678
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>HATA</strong>: Yanlış e-posta adresi veya parola."
+
+#: views/tab-settings.php:522
+msgid "GDPR compliance"
+msgstr "GDPR uyumluluğu"
+
+#: views/tab-logs-local.php:93 views/tab-logs-local.php:116
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Satır başına bir IP veya IP aralığı (1.2.3.4-5.6.7.8)"
+
+#: views/app-widgets/event-log.php:39 views/tab-logs-local.php:220
+msgid "Gateway"
+msgstr "Ağ Geçidi"
+
+#: views/tab-logs-local.php:218
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-logs-local.php:217
+msgid "Date"
+msgstr "Tarih"
+
+#: views/tab-logs-local.php:202
+msgid "Clear Log"
+msgstr "Kayıtları Temizle"
+
+#: views/tab-settings.php:597
+msgid "lockouts"
+msgstr "kilitlenme"
+
+#: views/tab-settings.php:191
+msgid "hours"
+msgstr "saat"
+
+#: views/tab-logs-local.php:50
+msgid "Reset Counter"
+msgstr "Sayacı Sıfırla"
+
+#: views/tab-logs-local.php:35
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: core/LimitLoginAttempts.php:1701
+msgid "WC Error"
+msgstr "WC Hatası"
+
+#: core/LimitLoginAttempts.php:1626
+msgid "Please try again later."
+msgstr "Lütfen daha sonra tekrar deneyin."
+
+#: core/LimitLoginAttempts.php:1340
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d dakika"
+msgstr[1] "%d dakika"
+
+#: core/LimitLoginAttempts.php:1333
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d saat"
+msgstr[1] "%d saat"
+
+#: views/tab-settings.php:498
+msgid "Use global settings"
+msgstr "Genel ayarları kullan"
+
+#: core/LimitLoginAttempts.php:603 core/LimitLoginAttempts.php:1148
+#: core/LimitLoginAttempts.php:1641
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Lütfen %d dakika sonra tekrar deneyin."
+msgstr[1] "Lütfen %d dakika sonra tekrar deneyin."
+
+#: core/LimitLoginAttempts.php:601 core/LimitLoginAttempts.php:1146
+#: core/LimitLoginAttempts.php:1638
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Lütfen %d saat sonra tekrar deneyin."
+msgstr[1] "Lütfen %d saat sonra tekrar deneyin."
+
+#: core/LimitLoginAttempts.php:594 core/LimitLoginAttempts.php:649
+#: core/LimitLoginAttempts.php:1139 core/LimitLoginAttempts.php:1559
+#: core/LimitLoginAttempts.php:1618
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>HATA</strong>: Çok fazla başarısız giriş denemesi."
+
+#: views/tab-settings.php:492
+msgid "Let network sites use their own settings"
+msgstr "Ağ sitelerinin kendi ayarlarını kullanmasına izin verin"
+
+#: views/tab-settings.php:148
+msgid "Lockout"
+msgstr "Kilitleme"
+
+#: views/tab-logs-local.php:64
+msgid "Active lockouts"
+msgstr "Etkin kilitlemeler"
+
+#: views/tab-logs-local.php:57
+msgid "No lockouts yet"
+msgstr "Henüz kilitleme yok"
+
+#: core/LimitLoginAttempts.php:1896
+msgid "Reset lockout count"
+msgstr "Kilitleme sayısını sıfırla"
+
+#: views/tab-logs-local.php:194
+msgid "Lockout log"
+msgstr "Kilitleme günlüğü"
+
+#: views/tab-logs-local.php:101 views/tab-logs-local.php:124
+msgid "One Username per line"
+msgstr "Satır başına bir kullanıcı adı"
+
+#: views/tab-settings.php:579
+msgid "Notify on lockout"
+msgstr "Kilitlendiğinde bildir"
+
+#: views/tab-logs-local.php:68
+msgid "Restore Lockouts"
+msgstr "Kilitlemeleri Geri Yükle"
+
+#: core/Ajax.php:994
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "<strong>%d</strong> deneme kaldı."
+msgstr[1] "<strong>%d</strong> deneme kaldı."
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: limit-login-attempts-reloaded.php core/LimitLoginAttempts.php:194
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/tab-logs-local.php:45
+msgid "Total lockouts"
+msgstr "Toplam kilitleme"
+
+#: core/LimitLoginAttempts.php:1903
+msgid "Cleared current lockouts"
+msgstr "Mevcut kilitlemeler temizlendi"
+
+#: core/LimitLoginAttempts.php:1889
+msgid "Cleared IP log"
+msgstr "IP günlüğü temizlendi"
+
+#: views/tab-logs-local.php:53
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "son sıfırlamadan beri %d kilitleme"
+msgstr[1] "son sıfırlamadan beri %d kilitleme"
+
+#: views/tab-logs-local.php:71
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP adresi giriş yapmaya çalışmaktan engellendi"
+
+#: core/LimitLoginAttempts.php:1681
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>HATA</strong>: Yanlış kullanıcı adı veya parola."
+
+#: views/tab-settings.php:493
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "Devre dışı bırakılırsa, genel ayarlar tüm ağa uygulanacaktır."
+
+#: views/tab-settings.php:162
+msgid "allowed retries"
+msgstr "izin verilen denemeler"
+
+#: views/tab-settings.php:175
+msgid "minutes lockout"
+msgstr "dakika kilitlenmiş"
+
+#: views/tab-logs-local.php:219
+msgid "Tried to log in as"
+msgstr "Giriş yapmaya çalışılan kullanıcı adı"
+
+#: views/tab-settings.php:187
+msgid "lockouts increase lockout time to"
+msgstr "kilitlenme, kilitleme süresini şuna yükselt"

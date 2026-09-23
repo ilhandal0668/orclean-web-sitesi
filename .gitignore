@@ -1,0 +1,20 @@
+# ---- GIZLI BILGI: asla yuklenmez ----
+ftp.conf
+wp-config.production.php
+site/wp-config.php
+
+# ---- GitHub 100 MB dosya sinirini asiyor ----
+orkamak-yedek.zip
+
+# ---- Ilgisiz / kisisel ----
+The_10K_Checklist.pdf
+
+# ---- Loglar ve gecici dosyalar ----
+logs/
+site/error_log
+site/wp-content/debug.log
+site/wp-content/litespeed/
+site/wp-content/upgrade/
+site/wp-content/upgrade-temp-backup/
+site/wp-content/ai1wm-backups/*.wpress
+site/wp-content/.litespeed_conf.dat
